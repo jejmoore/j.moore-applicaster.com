@@ -1,0 +1,440 @@
+{
+"id": "789123456",
+"type": {
+"value": "feed"
+},
+"entry": [
+{
+"id": "78912345601",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Jennifer Lawrence",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626659217_ebc781ecfd_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "78912345602",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Chris Pratt",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625866258_98f6442c83_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "78912345603",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Samuel L. Jackson",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625866193_c4eebaed01_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "78912345604",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Robert De Niro",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626659282_248e539538_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "78912345605",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Kyliegh Curran",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625866173_aaed4408de_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "78912345606",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Ewan McGregor",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625866403_2ce9156aed_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "78912345606",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Rebecca Ferguson",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626383786_51dbd2b9ab_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "78912345607",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Bradley Cooper",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625866153_968def7aa3_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "78912345608",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Al Pacino",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625866208_bb8251aeca_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "78912345609",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Halle Berry",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625899758_64436c1b0e_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "78912345610",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Keanu Reeves",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626383881_e3bcdf84c3_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+}
+],
+"title": "Testing feed",
+"content": {},
+"screen_type": ""
+}
