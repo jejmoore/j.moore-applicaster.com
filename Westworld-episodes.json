@@ -1,0 +1,128 @@
+{
+"id": "1123456789",
+"type": {
+"value": "feed"
+},
+"entry": [
+{
+"id": "112345678901",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "S3E1 Parce Domine",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "If you’re stuck in a loop, try walking in a straight line.",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "March 15, 2020",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Westworld/gVigzBMoBSNVyg4We1bPBcK695D.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "112345678902",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "S3E2 The Winter Line",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "People put up a lot of walls. Bring a sledgehammer to your life.",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "March 22, 2020",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Westworld/9CJh8dLCjWIavgLVfuhVaD1ZPhm.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "112345678903",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "S3E3 The Absence of Field",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+"type": "video/hls"
+},
+"summary": "People put up a lot of walls. Bring a sledgehammer to your life. Some do not like what they see in the mirror but shouldn't blame the mirror.",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "March 29, 2020",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Westworld/yqupzLZbj2CW9rd2iFAlFrPt41a.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+}
+],
+"title": "Testing feed",
+"content": {},
+"screen_type": ""
+}
