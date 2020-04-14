@@ -19,18 +19,6 @@
         "type" : "link",
         "href" : "quickbrickdevelopersdemo://present?screen_id=f3f66d1f-029d-4a44-abab-b02b50bf7b98"
       },
-      "media_group": [
-      {
-      "type": "image",
-      "media_item": [
-        {
-        "key": "image_base",
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Action-Adventure.png",
-        "type": "extern_image"
-        }
-      ]
-      }
-      ],
       "extensions" : {}
     },
     {
@@ -49,18 +37,6 @@
         "type" : "link",
         "href" : "quickbrickdevelopersdemo://present?screen_id=52a226b1-952b-4c36-9f0f-9cc7cff0daee"
       },
-      "media_group": [
-      {
-      "type": "image",
-      "media_item": [
-        {
-        "key": "image_base",
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Comedy.png",
-        "type": "extern_image"
-        }
-      ]
-      }
-      ],
       "extensions" : {}
     }
   ]
@@ -68,5 +44,5 @@
     "name" : "Applicaster"
   },
   "id" : "2211",
-  "title" : "Settings"
+  "title" : "Categories Screen"
 }
