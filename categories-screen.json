@@ -19,6 +19,18 @@
         "type" : "link",
         "href" : "quickbrickdevelopersdemo://present?screen_id=f3f66d1f-029d-4a44-abab-b02b50bf7b98"
       },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://live.staticflickr.com/65535/49639202771_f37e34fa7d_o.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
       "extensions" : {}
     },
     {
@@ -37,12 +49,24 @@
         "type" : "link",
         "href" : "quickbrickdevelopersdemo://present?screen_id=52a226b1-952b-4c36-9f0f-9cc7cff0daee"
       },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://live.staticflickr.com/65535/49639202771_f37e34fa7d_o.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
       "extensions" : {}
     }
-  ]
+  ],
   "author" : {
     "name" : "Applicaster"
   },
-  "id" : "2211",
+  "id" : "002211",
   "title" : "Categories Screen"
 }
