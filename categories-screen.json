@@ -25,7 +25,7 @@
       "media_item": [
       {
       "key": "image_base",
-      "src": "https://live.staticflickr.com/65535/49639202771_f37e34fa7d_o.png",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Action-Adventure.png",
       "type": "extern_image"
       }
       ]
@@ -55,7 +55,7 @@
       "media_item": [
       {
       "key": "image_base",
-      "src": "https://live.staticflickr.com/65535/49639202771_f37e34fa7d_o.png",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Comedy.png",
       "type": "extern_image"
       }
       ]
