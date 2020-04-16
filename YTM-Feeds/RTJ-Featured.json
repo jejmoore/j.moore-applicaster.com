@@ -1,0 +1,44 @@
+{
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "RTJR-0001",
+      "title" : "Ooh LA LA (feat. Greg Nice & DJ Premier)",
+      "summary" : "Single • 2020",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/YTM-Feeds/Assets/RTJ-Assets/RTJ-Ooh_lala.jpg",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {
+        "section": "LATEST RELEASE"
+      }
+    }
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
+  "id" : "200001",
+  "title" : "RTJ Latest Release"
+}
