@@ -1,0 +1,354 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "title": "Testing feed",
+  "id": "123",
+  "content": {},
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "The Crown",
+      "id": "9",
+      "summary": "S1 E7: Scientia Potentia Est",
+      "published": "2020-01-10T00:00+00:00",
+      "updated": "2020-01-17T00:00+00:00",
+      "author": {
+        "name": ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.ctfassets.net/4k8t6nhywge5/1JtvmaugjfOWLIMU2ov0Ln/a2b34cdf076759a07543e2f479b0ea96/AAAABTEFpESCAs2XU2NwSGSQD7GJuEbqrsgKqEqZj5pmQ8kE0GdCIi_agMZ81Inhl_-qdkTPZ0t-pqbsssv5Yz4AIXk8o1c5BpMPQhtczcutc6QLUCMn.jpg",
+              "key": "image_base",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "extensions": {
+        "section": "Netflix",
+        "duration": 535242,
+        "free": true,
+        "language": "English",
+        "start_time": "12:15",
+        "end_time": "13:00",
+        "duration_time": "0:45"
+      },
+      "content": {
+        "type": "video/hls",
+        "src": null
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Mr. Robot",
+      "id": "6",
+      "summary": "S3E7: frederick+tanya.chk",
+      "published": "2019-04-23T00:00+00:00",
+      "updated": "2019-07-18T00:00+00:00",
+      "author": {
+        "name": ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.ctfassets.net/4k8t6nhywge5/2PW0UCzL6UcoW52p0WyLXR/3b3d17d81826948d6fc0424af26f8439/mrrobot_promo_307-epguide_2560x1440.jpg",
+              "key": "image_base",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "extensions": {
+        "section": "USA",
+        "duration": 836263,
+        "free": true,
+        "language": "English",
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "duration_time": "1:00"
+      },
+      "content": {
+        "type": "video/hls",
+        "src": null
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "The Witcher",
+      "id": "7",
+      "summary": "S1E5: Bottled Appetites",
+      "published": "2019-12-20T00:00+00:00",
+      "updated": "2020-01-20T00:00+00:00",
+      "author": {
+        "name": ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.ctfassets.net/4k8t6nhywge5/5YIntLm03yx4B48ulm8kRC/8d8759586ebfbe6a5a44e5f4923696ae/AAAABZrceLqxTm7sSw5hFX50nbv_Xt4-kQJRsQqUB44W4qc4OwG_tmOex54p31nUNtxDXvVHK6qk5iuk3paPhJ0L6EqObGvYJIsfbMqOMor23gM8rh_1.jpg",
+              "key": "image_base",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "extensions": {
+        "section": "Netflix",
+        "duration": 324234,
+        "free": true,
+        "language": "English",
+        "start_time": "14:00",
+        "end_time": "14:45",
+        "duration_time": "0:45"
+      },
+      "content": {
+        "type": "video/hls",
+        "src": null
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Mr. Robot",
+      "id": "5",
+      "summary": "S4E9: Conflict",
+      "published": "2019-09-17T00:00+00:00",
+      "updated": "2019-07-20T00:00+00:00",
+      "author": {
+        "name": ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.ctfassets.net/4k8t6nhywge5/fZ4UOTBwbI9PlK4kNh8Ms/80233dfe23638de4466fb7510a1f57b3/MrRobot_epguide_409_2560x1440.jpg",
+              "key": "image_base",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "extensions": {
+        "section": "USA",
+        "duration": 87322,
+        "free": true,
+        "language": "English",
+        "start_time": "14:45",
+        "end_time": "15:45",
+        "duration_time": "1:00"
+      },
+      "content": {
+        "type": "video/hls",
+        "src": null
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Stranger Things",
+      "id": "2",
+      "summary": "S3 E7: Chapter Seven - The Bite",
+      "published": "2019-07-04T00:00+00:00",
+      "updated": "2019-07-04T00:00+00:00",
+      "author": {
+        "name": ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.ctfassets.net/4k8t6nhywge5/HFWtc4fbIReE02gOLoRAk/5df08cf3cb99296f2685de1fab9bb9b7/S3E7.jpg",
+              "key": "image_base",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "extensions": {
+        "section": "Netflix",
+        "duration": 32332,
+        "free": true,
+        "language": "English",
+        "start_time": "15:45",
+        "end_time": "16:30",
+        "duration_time": "0:45"
+      },
+      "content": {
+        "type": "video/hls",
+        "src": "https://assets.ctfassets.net/4k8t6nhywge5/60mIrmESEua7dedMNKupfH/098825b8bb485118fe98589c5c38bce4/29880.m3u8"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Mr. Robot",
+      "id": "3",
+      "summary": "S4 E4:  404 Not Found",
+      "published": "2019-09-09T00:00+00:00",
+      "updated": "2019-09-23T00:00+00:00",
+      "author": {
+        "name": ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.ctfassets.net/4k8t6nhywge5/3sjkhHKXOr4Roli1iAHd8O/2c9a2a9c2293b86dea06971d7726e4a2/MrRobot_aspot_413a_2880x1620_rev.jpg",
+              "key": "image_base",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "extensions": {
+        "section": "USA",
+        "duration": 442233,
+        "free": true,
+        "language": "English",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "duration_time": "1:00"
+      },
+      "content": {
+        "type": "video/hls",
+        "src": null
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "Breaking Bad",
+      "id": "4",
+      "summary": "S5 E10:  Buried",
+      "published": "2019-09-23T00:00+00:00",
+      "updated": "2019-11-13T00:00+00:00",
+      "author": {
+        "name": ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.ctfassets.net/4k8t6nhywge5/32fXTaxIiOp92c4d9q9a3j/b0bd7c98aed5cedc90cd42e478a0b788/breaking_bad.jpg",
+              "key": "image_base",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "extensions": {
+        "section": "USA",
+        "duration": 31234,
+        "free": true,
+        "language": "English",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "duration_time": "1:00"
+      },
+      "content": {
+        "type": "video/hls",
+        "src": null
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "title": "The Witcher",
+      "id": "6156701",
+      "summary": "S1 E1: The End's Beginning",
+      "published": "2019-12-20T00:00+00:00",
+      "updated": "2019-12-20T00:00+00:00",
+      "author": {
+        "name": ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.ctfassets.net/4k8t6nhywge5/2VK7kF4f7UhmgZofIq0tm9/940ae559ec08968138d3577163506d8f/s1e1.png",
+              "key": "image_base",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "extensions": {
+        "section": "Netflix",
+        "duration": 9863,
+        "free": true,
+        "language": "English",
+        "start_time": "18:30",
+        "end_time": "19:15",
+        "duration_time": "0:45"
+      },
+      "content": {
+        "type": "video/hls",
+        "src": null
+      }
+    }
+  ]
+}
