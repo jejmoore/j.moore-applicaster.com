@@ -1,0 +1,271 @@
+{
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-CSS0001",
+      "title" : "Killing Eve",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/ke.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {
+        "section": "NEW",
+        "genre": "DRAMA"
+      }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-CSS0002",
+      "title" : "Sonic",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/sonic.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/sonic.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {
+        "section": "NEW",
+        "genre": "KIDS & FAMILY"
+      }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-CSS0003",
+      "title" : "The Personal History of David Copperfield",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/david-copperfield.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/dc.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {
+        "section": "NEW",
+        "genre": "DRAMA"
+      }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-CSS0004",
+      "title" : "Extraction",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/extraction.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/extraction.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {
+        "section": "NEW",
+        "genre": "ACTION"
+      }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-CSS0005",
+      "title" : "Onward",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/Onward-Trailer.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/onward.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {
+        "section": "NEW",
+        "genre": "KIDS & FAMILY"
+      }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-CSS0006",
+      "title" : "Westworld",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/westworld.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/ww.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {
+        "section": "NEW",
+        "genre": "SCI-FI"
+      }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-CSS0007",
+      "title" : "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/harley.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/harley.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {
+        "section": "NEW",
+        "genre": "ACTION"
+      }
+    }
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
+  "id" : "QBS-004",
+  "title" : "Coming Soon"
+}
