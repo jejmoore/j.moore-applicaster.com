@@ -1,0 +1,210 @@
+{
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBS02-0001",
+      "title" : "Star Wars: The Collection",
+      "summary" : "Binge on all of the Star Wars films right here",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/onward-backdrop.jpg",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {
+        "section": "NEW"
+      }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBS02-0002",
+      "title" : "VIEW ALL",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS02-0003",
+      "title" : "Star Wars: The Rise of Skywalker",
+      "summary" : "2019  ·  2h 22m",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/Onward-Trailer.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://github.com/jejmoore/j.moore-applicaster.com/blob/master/QBS%20Feeds/Assets/Star%20Wars/sw-rise.jpg",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS02-0004",
+      "title" : "Solo: A Star Wars Story",
+      "summary" : "2018  ·  2h 15m",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/Onward-Trailer.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://github.com/jejmoore/j.moore-applicaster.com/blob/master/QBS%20Feeds/Assets/Star%20Wars/sw-solo.jpg",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS02-0005",
+      "title" : "Star Wars: The Last Jedi",
+      "summary" : "2017  ·  2h 32m",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/Onward-Trailer.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://github.com/jejmoore/j.moore-applicaster.com/blob/master/QBS%20Feeds/Assets/Star%20Wars/sw-last.jpg",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS02-0006",
+      "title" : "Rogue One: A Star Wars Story",
+      "summary" : "2016  ·  2h 13m",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/Onward-Trailer.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://github.com/jejmoore/j.moore-applicaster.com/blob/master/QBS%20Feeds/Assets/Star%20Wars/sw-rogue.jpg",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    }
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
+  "id" : "QBS-02",
+  "title" : "Star Wars: The Collection"
+}
