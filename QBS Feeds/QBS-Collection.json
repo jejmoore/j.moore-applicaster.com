@@ -91,7 +91,7 @@
       "media_item": [
       {
       "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/blob/master/QBS%20Feeds/Assets/Star%20Wars/sw-rise.jpg",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Star%20Wars/sw-rise.jpg",
       "type": "extern_image"
       }
       ]
@@ -159,7 +159,7 @@
       "media_item": [
       {
       "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/blob/master/QBS%20Feeds/Assets/Star%20Wars/sw-last.jpg",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Star%20Wars/sw-last.jpg",
       "type": "extern_image"
       }
       ]
@@ -193,7 +193,7 @@
       "media_item": [
       {
       "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/blob/master/QBS%20Feeds/Assets/Star%20Wars/sw-rogue.jpg",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Star%20Wars/sw-rogue.jpg",
       "type": "extern_image"
       }
       ]
