@@ -302,8 +302,8 @@
     "name" : "Applicaster"
   },
   "id" : "QBS-003",
-  "title" : "Watch the trailers of all the new releases",
-  "description" : "Test description",
+  "title" : "Coming Soon",
+  "description" : "Watch the trailers of all the new releases",
   "media_group": [
   {
     "type" : "image",
