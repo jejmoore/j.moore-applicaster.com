@@ -28,9 +28,14 @@
       "type": "image",
       "media_item": [
       {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/ke.png",
-      "type": "extern_image"
+        "key": "image_trailer",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/ke.png",
+        "type": "extern_image"
+      },
+      {
+        "key": "image_base",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Coming%20Soon%20Screen/killing-eve.jpg",
+        "type": "extern_image"
       }
       ]
       }
@@ -65,9 +70,14 @@
       "type": "image",
       "media_item": [
       {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/sonic.png",
-      "type": "extern_image"
+        "key": "image_trailer",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/sonic.png",
+        "type": "extern_image"
+      },
+      {
+        "key": "image_base",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Coming%20Soon%20Screen/sonic.jpg",
+        "type": "extern_image"
       }
       ]
       }
@@ -102,9 +112,14 @@
       "type": "image",
       "media_item": [
       {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/dc.png",
-      "type": "extern_image"
+        "key": "image_trailer",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/dc.png",
+        "type": "extern_image"
+      },
+      {
+        "key": "image_base",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Coming%20Soon%20Screen/david-copperfield.jpg",
+        "type": "extern_image"
       }
       ]
       }
@@ -139,9 +154,14 @@
       "type": "image",
       "media_item": [
       {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/extraction.png",
-      "type": "extern_image"
+        "key": "image_trailer",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/extraction.png",
+        "type": "extern_image"
+      },
+      {
+        "key": "image_base",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Coming%20Soon%20Screen/extraction.jpg",
+        "type": "extern_image"
       }
       ]
       }
@@ -176,9 +196,14 @@
       "type": "image",
       "media_item": [
       {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/onward.png",
-      "type": "extern_image"
+        "key": "image_trailer",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/onward.png",
+        "type": "extern_image"
+      },
+      {
+        "key": "image_base",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Coming%20Soon%20Screen/onward.jpg",
+        "type": "extern_image"
       }
       ]
       }
@@ -213,9 +238,14 @@
       "type": "image",
       "media_item": [
       {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/ww.png",
-      "type": "extern_image"
+        "key": "image_trailer",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/ww.png",
+        "type": "extern_image"
+      },
+      {
+        "key": "image_base",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Coming%20Soon%20Screen/westworld.jpg",
+        "type": "extern_image"
       }
       ]
       }
@@ -250,9 +280,14 @@
       "type": "image",
       "media_item": [
       {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/harley.png",
-      "type": "extern_image"
+        "key": "image_trailer",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/harley.png",
+        "type": "extern_image"
+      },
+      {
+        "key": "image_base",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Coming%20Soon%20Screen/harley.jpg",
+        "type": "extern_image"
       }
       ]
       }
