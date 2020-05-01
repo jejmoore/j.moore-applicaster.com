@@ -12,7 +12,7 @@
       },
       "id" : "QBS-CS0001",
       "title" : "Killing Eve",
-      "summary" : "",
+      "summary" : "DRAMA  ·  2020",
       "published" : "2005-04-06T20:25:05-08:00",
       "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
@@ -21,7 +21,7 @@
       },
       "link" : {
         "type" : "link",
-        "href" : "META INFO HERE"
+        "href" : ""
       },
       "media_group": [
       {
@@ -54,7 +54,7 @@
       },
       "id" : "QBS-CS0002",
       "title" : "Sonic",
-      "summary" : "",
+      "summary" : "KIDS & FAMILY  ·  2020",
       "published" : "2005-04-06T20:25:05-08:00",
       "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
@@ -96,7 +96,7 @@
       },
       "id" : "QBS-CS0003",
       "title" : "The Personal History of David Copperfield",
-      "summary" : "",
+      "summary" : "DRAMA  ·  2020",
       "published" : "2005-04-06T20:25:05-08:00",
       "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
@@ -138,7 +138,7 @@
       },
       "id" : "QBS-CS0004",
       "title" : "Extraction",
-      "summary" : "",
+      "summary" : "ACTION  ·  2020",
       "published" : "2005-04-06T20:25:05-08:00",
       "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
@@ -180,7 +180,7 @@
       },
       "id" : "QBS-CS0005",
       "title" : "Onward",
-      "summary" : "",
+      "summary" : "KIDS & FAMILY  ·  2020",
       "published" : "2005-04-06T20:25:05-08:00",
       "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
@@ -222,7 +222,7 @@
       },
       "id" : "QBS-CS0006",
       "title" : "Westworld",
-      "summary" : "",
+      "summary" : "SCI-FI  ·  2019",
       "published" : "2005-04-06T20:25:05-08:00",
       "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
@@ -264,7 +264,7 @@
       },
       "id" : "QBS-CS0007",
       "title" : "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
-      "summary" : "",
+      "summary" : "ACTION  ·  2020",
       "published" : "2005-04-06T20:25:05-08:00",
       "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
