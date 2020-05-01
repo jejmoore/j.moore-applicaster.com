@@ -268,5 +268,17 @@
   },
   "id" : "QBS-003",
   "title" : "Watch the trailers of all the new releases",
-  "description" : "Test description"
+  "description" : "Test description",
+  "media_group": [
+  {
+  "type": "image",
+  "media_item": [
+  {
+  "key": "image_hero",
+  "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/harley.png",
+  "type": "extern_image"
+  }
+  ]
+  }
+  ],
 }
