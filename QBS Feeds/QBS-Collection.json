@@ -8,68 +8,6 @@
         "name" : "Admin"
       },
       "type" : {
-        "value" : "link"
-      },
-      "id" : "QBS02-0001",
-      "title" : "Star Wars: The Collection",
-      "summary" : "Binge on all of the Star Wars films right here",
-      "published" : "2005-04-06T20:25:05-08:00",
-      "updated" : "2005-04-06T20:25:05-08:00",
-      "link" : {
-        "type" : "link",
-        "href" : ""
-      },
-      "media_group": [
-      {
-      "type": "image",
-      "media_item": [
-      {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/star-wars-collection.jpg",
-      "type": "extern_image"
-      }
-      ]
-      }
-      ],
-      "extensions" : {
-        "section": "NEW"
-      }
-    },
-    {
-      "author" : {
-        "name" : "Admin"
-      },
-      "type" : {
-        "value" : "link"
-      },
-      "id" : "QBS02-0002",
-      "title" : "VIEW ALL",
-      "summary" : "",
-      "published" : "2005-04-06T20:25:05-08:00",
-      "updated" : "2005-04-06T20:25:05-08:00",
-      "link" : {
-        "type" : "link",
-        "href" : "quickbrickdevelopersdemo://present?screen_id=516eb965-6f07-4317-b285-adbdeb81ed11"
-      },
-      "media_group": [
-      {
-      "type": "image",
-      "media_item": [
-      {
-      "key": "image_base",
-      "src": "",
-      "type": "extern_image"
-      }
-      ]
-      }
-      ],
-      "extensions" : {}
-    },
-    {
-      "author" : {
-        "name" : "Admin"
-      },
-      "type" : {
         "value" : "video"
       },
       "id" : "QBS02-0003",
@@ -207,7 +145,7 @@
   },
   "id" : "QBS-02",
   "title" : "Star Wars: The Collection",
-  "description" : "Watch the trailers of all the new releases",
+  "description" : "Binge on all of the Star Wars films right here",
   "button" : "VIEW ALL",
   "tag" : "NEW",
   "media_group": [
