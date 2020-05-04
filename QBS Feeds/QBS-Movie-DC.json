@@ -11,6 +11,40 @@
         "value" : "video"
       },
       "id" : "QBS-DC0001",
+      "title" : "The Personal History of David Copperfield",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/david-copperfield.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Star%20Wars/sw-rise.jpg",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-DC0002",
       "title" : "WATCH NOW",
       "summary" : "",
       "published" : "2005-04-06T20:25:05-08:00",
@@ -46,17 +80,5 @@
   "genre" : "DRAMA",
   "description" : "A fresh and distinctive take on Charles Dickens’ semi-autobiographical masterpiece, The Personal History of David Copperfield, set in the 1840s, chronicles the life of its iconic title character as he navigates a chaotic world to find his elusive place within it.",
   "meta" : "2019 · 1h 40m",
-  "subheader" : "Similar Titles",
-  "media_group": [
-  {
-    "type" : "image",
-    "media_item" : [
-      {
-      "key" : "image_hero",
-      "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Coming%20Soon%20Screen/david-copperfield.jpg",
-      "type" : "extern_image"
-      }
-    ]
-  }
-  ]
+  "subheader" : "Similar Titles"
 }
