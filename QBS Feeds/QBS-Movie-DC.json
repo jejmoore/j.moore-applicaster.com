@@ -35,7 +35,9 @@
       ]
       }
       ],
-      "extensions" : {}
+      "extensions" : {
+        "button" : "WATCH NOW"
+      }
     },
     {
       "author" : {
@@ -45,7 +47,7 @@
         "value" : "video"
       },
       "id" : "QBS-DC0002",
-      "title" : "WATCH NOW",
+      "title" : "The Personal History of David Copperfield",
       "summary" : "",
       "published" : "2005-04-06T20:25:05-08:00",
       "updated" : "2005-04-06T20:25:05-08:00",
@@ -69,7 +71,9 @@
       ]
       }
       ],
-      "extensions" : {}
+      "extensions" : {
+        "button" : "WATCH NOW"
+      }
     }
   ],
   "author" : {
