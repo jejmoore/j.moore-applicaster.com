@@ -8,20 +8,14 @@
       "name" : "Admin"
     },
     "type" : {
-      "value" : "video"
+      "value" : "link"
     },
     "id" : "QBS-NM0001",
     "title" : "The Personal History of David Copperfield",
     "summary" : "",
-    "published" : "2005-04-06T20:25:05-08:00",
-    "updated" : "2005-04-06T20:25:05-08:00",
-    "content" : {
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/david-copperfield.mp4",
-      "type": "video/hls"
-    },
     "link" : {
       "type" : "link",
-      "href" : ""
+      "href" : "quickbrickdevelopersdemo://present?screen_id=ecb0644c-e87f-4d9e-afff-5a5c81c95edd"
     },
     "media_group": [
     {
