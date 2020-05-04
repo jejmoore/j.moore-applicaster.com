@@ -74,6 +74,40 @@
       "extensions" : {
         "button" : "WATCH NOW"
       }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-DC0003",
+      "title" : "Big Hero 6",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/david-copperfield.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/big-hero-6.jpg",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
     }
   ],
   "author" : {
