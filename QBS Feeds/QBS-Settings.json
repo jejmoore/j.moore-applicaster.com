@@ -1,0 +1,157 @@
+{
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBS-SE0001",
+      "title" : "Notifications",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "link" : {
+        "type" : "link",
+        "href" : "quickbrickdevelopersdemo://present?screen_id=d3ee9b02-e615-494b-9436-e4182cd8071c"
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Settings/Fav-notifications.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBS-SE0002",
+      "title" : "App Settings",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "link" : {
+        "type" : "link",
+        "href" : "quickbrickdevelopersdemo://present?screen_id=2116d8bd-bf92-40e1-9619-450d3d04b836"
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Settings/Fav-app-settings.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBS-SE0003",
+      "title" : "Account Info",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "link" : {
+        "type" : "link",
+        "href" : "quickbrickdevelopersdemo://present?screen_id=06fc0420-8f96-42b5-88d8-28528836e58e"
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Settings/Fav-account.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBS-SE0004",
+      "title" : "Terms & Conditions",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "link" : {
+        "type" : "link",
+        "href" : "quickbrickdevelopersdemo://present?screen_id=86fb1675-64c6-46b5-8eda-e2c22b934db9"
+      },
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBS-SE0005",
+      "title" : "Privacy",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "link" : {
+        "type" : "link",
+        "href" : "quickbrickdevelopersdemo://present?screen_id=86fb1675-64c6-46b5-8eda-e2c22b934db9"
+      },
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBS-SE0006",
+      "title" : "Help",
+      "summary" : "",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "link" : {
+        "type" : "link",
+        "href" : "quickbrickdevelopersdemo://present?screen_id=86fb1675-64c6-46b5-8eda-e2c22b934db9"
+      },
+      "extensions" : {}
+    }
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
+  "id" : "QBS-007",
+  "title" : "Settings",
+  "description" : "HELP & SUPPORT"
+}
