@@ -60,7 +60,7 @@
       "summary" : "",
       "content" : {
         "type" : "feed",
-        "href" : "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9hc3NldHMtc2VjdXJlLmFwcGxpY2FzdGVyLmNvbS9xYS96YXBwX3FhL21hbnVhbC9ib2F6L2pvbi9kdW1teS5qc29u"
+        "href" : "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtRHVtbXktRHVua2lyay5qc29u"
       },
       "media_group": [
         {
