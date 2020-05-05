@@ -1,0 +1,84 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+    "type": {
+      "value": "feed"
+    },
+    "id": "QBS-MD0001",
+    "title": "item_0",
+    "summary": "summary_for_id_0",
+    "content": {
+      "type": "feed",
+      "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtTW92aWUtREMuanNvbg=="
+    },
+    "media_group": [
+      {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s1_thumbnail.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+    "type": {
+      "value": "feed"
+    },
+    "id": "QBS-MD0002",
+    "title": "item_1",
+    "summary": "summary_for_id_1",
+    "content": {
+      "type": "feed",
+      "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtTW92aWUtREMuanNvbg=="
+    },
+    "media_group": [
+      {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s1_thumbnail.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+    "type": {
+      "value": "feed"
+    },
+    "id": "QBS-MD0003",
+    "title": "item_2",
+    "summary": "summary_for_id_2",
+    "content": {
+      "type": "feed",
+      "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtTW92aWUtREMuanNvbg=="
+    },
+    "media_group": [
+      {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://assets-production.applicaster.com/qa/zapp_qa/zapp_products/videos/Grace%20and%20Frankie%20/grace_and_frankie_s1_thumbnail.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author": {
+  "name": "zapp_qa"
+  },
+  "id": "QBS-010",
+  "title": "QBS Movie Dummy"
+}
