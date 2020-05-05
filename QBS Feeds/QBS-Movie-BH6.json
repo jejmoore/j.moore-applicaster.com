@@ -11,7 +11,7 @@
         "value" : "video"
       },
       "id" : "QBS-BH60001",
-      "title" : "The Personal History of David Copperfield",
+      "title" : "Big Hero 6",
       "summary" : "",
       "published" : "2005-04-06T20:25:05-08:00",
       "updated" : "2005-04-06T20:25:05-08:00",
@@ -29,7 +29,7 @@
       "media_item": [
       {
       "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/dc.jpg",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/big-hero-6.jpg",
       "type": "extern_image"
       }
       ]
@@ -47,7 +47,7 @@
         "value" : "video"
       },
       "id" : "QBS-BH60002",
-      "title" : "The Personal History of David Copperfield",
+      "title" : "Big Hero 6",
       "summary" : "",
       "published" : "2005-04-06T20:25:05-08:00",
       "updated" : "2005-04-06T20:25:05-08:00",
@@ -65,7 +65,7 @@
       "media_item": [
       {
       "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/dc.jpg",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/big-hero-6.jpg",
       "type": "extern_image"
       }
       ]
