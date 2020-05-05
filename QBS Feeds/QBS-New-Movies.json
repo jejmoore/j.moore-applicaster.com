@@ -4,234 +4,177 @@
   },
   "entry" : [
   {
-    "author" : {
-      "name" : "Admin"
-    },
     "type" : {
-      "value" : "link"
+      "value" : "feed"
     },
     "id" : "QBS-NM0001",
     "title" : "The Personal History of David Copperfield",
     "summary" : "",
-    "link" : {
-      "type" : "link",
-      "href" : "quickbrickdevelopersdemo://present?screen_id=ecb0644c-e87f-4d9e-afff-5a5c81c95edd"
+    "content" : {
+      "type" : "feed",
+      "href" : "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtTW92aWVzLUR1bW15Lmpzb24="
     },
     "media_group": [
-    {
-    "type": "image",
-    "media_item": [
-    {
-    "key": "image_base",
-    "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/dc.jpg",
-    "type": "extern_image"
-    }
-    ]
-    }
+      {
+        "type": "image",
+        "media_item": [
+          {
+          "key": "image_base",
+          "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/dc.jpg",
+          "type": "extern_image"
+          }
+        ]
+      }
     ],
     "extensions" : {}
   },
     {
-      "author" : {
-        "name" : "Admin"
-      },
       "type" : {
         "value" : "video"
       },
       "id" : "QBS-NM0002",
       "title" : "Big Hero 6",
       "summary" : "",
-      "published" : "2005-04-06T20:25:05-08:00",
-      "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/david-copperfield.mp4",
-        "type": "video/hls"
-      },
-      "link" : {
-        "type" : "link",
-        "href" : ""
+        "type" : "feed",
+        "href" : "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtTW92aWVzLUR1bW15Lmpzb24="
       },
       "media_group": [
-      {
-      "type": "image",
-      "media_item": [
-      {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/big-hero-6.jpg",
-      "type": "extern_image"
-      }
-      ]
-      }
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/big-hero-6.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
       ],
       "extensions" : {}
     },
     {
-      "author" : {
-        "name" : "Admin"
-      },
       "type" : {
         "value" : "video"
       },
       "id" : "QBS-NM0003",
       "title" : "Dunkirk",
       "summary" : "",
-      "published" : "2005-04-06T20:25:05-08:00",
-      "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/david-copperfield.mp4",
-        "type": "video/hls"
-      },
-      "link" : {
-        "type" : "link",
-        "href" : ""
+        "type" : "feed",
+        "href" : "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtTW92aWVzLUR1bW15Lmpzb24="
       },
       "media_group": [
-      {
-      "type": "image",
-      "media_item": [
-      {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/Dunkirk.png",
-      "type": "extern_image"
-      }
-      ]
-      }
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/Dunkirk.png",
+            "type": "extern_image"
+            }
+          ]
+        }
       ],
       "extensions" : {}
     },
     {
-      "author" : {
-        "name" : "Admin"
-      },
       "type" : {
         "value" : "video"
       },
       "id" : "QBS-NM0004",
       "title" : "Incredibles 2",
       "summary" : "",
-      "published" : "2005-04-06T20:25:05-08:00",
-      "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/david-copperfield.mp4",
-        "type": "video/hls"
-      },
-      "link" : {
-        "type" : "link",
-        "href" : ""
+        "type" : "feed",
+        "href" : "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtTW92aWVzLUR1bW15Lmpzb24="
       },
       "media_group": [
-      {
-      "type": "image",
-      "media_item": [
-      {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/Incredibles-2.png",
-      "type": "extern_image"
-      }
-      ]
-      }
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/Incredibles-2.png",
+            "type": "extern_image"
+            }
+          ]
+        }
       ],
       "extensions" : {}
     },
     {
-      "author" : {
-        "name" : "Admin"
-      },
       "type" : {
         "value" : "video"
       },
       "id" : "QBS-NM0005",
       "title" : "The Irishman",
       "summary" : "",
-      "published" : "2005-04-06T20:25:05-08:00",
-      "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/david-copperfield.mp4",
-        "type": "video/hls"
-      },
-      "link" : {
-        "type" : "link",
-        "href" : ""
+        "type" : "feed",
+        "href" : "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtTW92aWVzLUR1bW15Lmpzb24="
       },
       "media_group": [
-      {
-      "type": "image",
-      "media_item": [
-      {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/irishman.jpg",
-      "type": "extern_image"
-      }
-      ]
-      }
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/irishman.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
       ],
       "extensions" : {}
     },
     {
-      "author" : {
-        "name" : "Admin"
-      },
       "type" : {
         "value" : "video"
       },
       "id" : "QBS-NM0006",
       "title" : "Doctor Sleep",
       "summary" : "",
-      "published" : "2005-04-06T20:25:05-08:00",
-      "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/david-copperfield.mp4",
-        "type": "video/hls"
-      },
-      "link" : {
-        "type" : "link",
-        "href" : ""
+        "type" : "feed",
+        "href" : "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtTW92aWVzLUR1bW15Lmpzb24="
       },
       "media_group": [
-      {
-      "type": "image",
-      "media_item": [
-      {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/doctor-sleep.jpg",
-      "type": "extern_image"
-      }
-      ]
-      }
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/doctor-sleep.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
       ],
       "extensions" : {}
     },
     {
-      "author" : {
-        "name" : "Admin"
-      },
       "type" : {
         "value" : "video"
       },
       "id" : "QBS-NM0007",
       "title" : "Toy Story 4",
       "summary" : "",
-      "published" : "2005-04-06T20:25:05-08:00",
-      "updated" : "2005-04-06T20:25:05-08:00",
       "content" : {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/david-copperfield.mp4",
-        "type": "video/hls"
-      },
-      "link" : {
-        "type" : "link",
-        "href" : ""
+        "type" : "feed",
+        "href" : "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtTW92aWVzLUR1bW15Lmpzb24="
       },
       "media_group": [
-      {
-      "type": "image",
-      "media_item": [
-      {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/Toy-Story-4.png",
-      "type": "extern_image"
-      }
-      ]
-      }
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/Toy-Story-4.png",
+            "type": "extern_image"
+            }
+          ]
+        }
       ],
       "extensions" : {}
     }
