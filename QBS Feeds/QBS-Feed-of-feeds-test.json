@@ -36,7 +36,7 @@
             "summary": "summary_for_id_1",
             "content": {
                 "type": "feed",
-                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtRHVtbXktVGVzdC5qc29u"
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9hc3NldHMtc2VjdXJlLmFwcGxpY2FzdGVyLmNvbS9xYS96YXBwX3FhL2F1dG9tYXRpb24vcXVpY2tfYnJpY2tfbW9iaWxlL2ZlZWRfb2ZfZmVlZHMvZHVtbXkuanNvbg=="
             },
             "media_group": [
                 {
