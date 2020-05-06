@@ -1,0 +1,383 @@
+{
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-WW0001",
+      "title" : "START WATCHING",
+      "summary" : "S2 E4: The Curse",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/ke.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-WW0002",
+      "title" : "S1 E1: Pilot",
+      "summary" : "28 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/s1e1.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-WW0003",
+      "title" : "S1 E2: City Council",
+      "summary" : "26 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/s1e2.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-WW0004",
+      "title" : "S1 E3: Werewolf Feud",
+      "summary" : "29 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/s1e3.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-WW0005",
+      "title" : "S1 E4: Manhattan Night Club",
+      "summary" : "27 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/s1e4.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-WW0006",
+      "title" : "S1 E5: Animal Control",
+      "summary" : "25 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/s1e5.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-WW0007",
+      "title" : "S1 E6: Baron's Night Out",
+      "summary" : "26 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/s1e6.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-WW0008",
+      "title" : "S1 E7: The Trial",
+      "summary" : "28 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/s1e7.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0009",
+      "title" : "S1 E8: Citizenship",
+      "summary" : "25 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/s1e8.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0010",
+      "title" : "S1 E9: The Orgy",
+      "summary" : "28 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/s1e9.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0011",
+      "title" : "S1 E10: Ancestry",
+      "summary" : "26 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/s1e10.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    }
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
+  "id" : "QBS-014",
+  "title" : "What We Do In The Shadows",
+  "genre" : "COMEDY",
+  "description" : "A documentary-style look into the daily (or rather, nightly) lives of three vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
+  "meta" : "2019 · 2 Seasons",
+  "cast" : "Cast: Kayvan Novak, Matt Berry, Natasia Demetriou",
+  "subheader" : "All Episodes",
+  "media_group": [
+    {
+      "type": "image",
+      "media_item": [
+        {
+        "key": "image_hero",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/16x9-backdrop.jpg",
+        "type": "extern_image"
+        }
+      ]
+    }
+  ]
+}
