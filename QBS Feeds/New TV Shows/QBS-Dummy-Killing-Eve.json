@@ -1,0 +1,36 @@
+{
+"type": {
+"value": "feed"
+},
+"entry": [
+{
+"type": {
+"value": "feed"
+},
+"id": "000",
+"title": "item_0",
+"summary": "summary_for_id_0",
+"content": {
+"type": "feed",
+"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLU1vdmllLURDLmpzb24="
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"type": "image",
+"key": "image_base",
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/big-hero-6.jpg"
+}
+]
+}
+]
+}
+],
+"author": {
+"name": "Applicaster"
+},
+"id": "QBSD-013",
+"title": "QB Dummy KE"
+}

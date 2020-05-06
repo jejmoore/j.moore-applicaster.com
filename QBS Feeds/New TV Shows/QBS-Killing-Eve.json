@@ -303,5 +303,17 @@
   "description" : "A security consultant hunts for a ruthless assassin. Equally obsessed with each other, they go head to head in an epic game of cat-and-mouse.",
   "meta" : "2019 · 3 Seasons",
   "cast" : "Cast: Sandra Oh, Jodie Comer, Fiona Shaw",
-  "subheader" : "All Episodes"
+  "subheader" : "All Episodes",
+  "media_group": [
+    {
+      "type": "image",
+      "media_item": [
+        {
+        "key": "image_base",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Killing%20Eve/backdrop.jpg",
+        "type": "extern_image"
+        }
+      ]
+    }
+  ]
 }
