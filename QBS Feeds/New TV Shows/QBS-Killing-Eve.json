@@ -1,0 +1,307 @@
+{
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0001",
+      "title" : "START WATCHING",
+      "summary" : "S3 E1: Slowly Slowly Catchy Monkey",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Trailers/ke.png",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0002",
+      "title" : "S1 E1: Nice Face",
+      "summary" : "42 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Killing%20Eve/s1e1.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0003",
+      "title" : "S1 E2: I'll Deal With Him Later",
+      "summary" : "46 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Killing%20Eve/s1e2.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0004",
+      "title" : "S1 E3: Don't I Know You?",
+      "summary" : "47 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Killing%20Eve/s1e3.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0005",
+      "title" : "S1 E4: Sorry Baby",
+      "summary" : "44 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Killing%20Eve/s1e4.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0006",
+      "title" : "S1 E5: I Have a Thing About Bathrooms",
+      "summary" : "45 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Killing%20Eve/s1e5.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0007",
+      "title" : "S1 E6: Take Me to the Hole!",
+      "summary" : "42 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Killing%20Eve/s1e6.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0008",
+      "title" : "S1 E7: I Don't Want To Be Free",
+      "summary" : "48 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Killing%20Eve/s1e7.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-KE0009",
+      "title" : "S1 E8: God, I'm Tired",
+      "summary" : "45 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Killing%20Eve/s1e8.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    }
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
+  "id" : "QBS-013",
+  "title" : "Killing Eve",
+  "genre" : "DRAMA",
+  "description" : "A security consultant hunts for a ruthless assassin. Equally obsessed with each other, they go head to head in an epic game of cat-and-mouse.",
+  "meta" : "2019 · 3 Seasons",
+  "cast" : "Cast: Sandra Oh, Jodie Comer, Fiona Shaw",
+  "subheader" : "All Episodes"
+}
