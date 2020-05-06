@@ -26,6 +26,30 @@
                     ]
                 }
             ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-NTS001",
+            "title": "What We Do In The Shadows",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XV0RJVFMuanNvbg=="
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/16x9-poster.jpg"
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "author" : {
