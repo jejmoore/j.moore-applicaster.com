@@ -309,7 +309,7 @@
       "type": "image",
       "media_item": [
         {
-        "key": "image_base",
+        "key": "image_hero",
         "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Killing%20Eve/backdrop.jpg",
         "type": "extern_image"
         }
