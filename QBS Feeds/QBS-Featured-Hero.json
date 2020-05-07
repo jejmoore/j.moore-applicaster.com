@@ -1,49 +1,40 @@
 {
-  "type" : {
-    "value" : "feed"
-  },
-  "entry" : [
-    {
-      "author" : {
-        "name" : "Admin"
-      },
-      "type" : {
-        "value" : "video"
-      },
-      "id" : "QBS-0001",
-      "title" : "Onward",
-      "summary" : "IMDB 6.8  ·  PG  ·  2020  ·  1h 32m",
-      "published" : "2005-04-06T20:25:05-08:00",
-      "updated" : "2005-04-06T20:25:05-08:00",
-      "content" : {
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/Onward-Trailer.mp4",
-        "type": "video/hls"
-      },
-      "link" : {
-        "type" : "link",
-        "href" : ""
-      },
-      "media_group": [
-      {
-      "type": "image",
-      "media_item": [
-      {
-      "key": "image_base",
-      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/onward-backdrop.jpg",
-      "type": "extern_image"
-      }
-      ]
-      }
-      ],
-      "extensions" : {
-        "section": "NEW",
-        "genre": "KIDS & FAMILY"
-      }
-    }
-  ],
-  "author" : {
-    "name" : "Applicaster"
-  },
-  "id" : "QBS-01",
-  "title" : "Hero"
+    "type": {
+        "value": "feed"
+    },
+    "entry": [
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-FH000",
+            "title" : "Onward",
+            "summary" : "IMDB 6.8  ·  PG  ·  2020  ·  1h 32m",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LURDLmpzb24="
+            },
+            "extensions" : {
+              "section": "NEW",
+              "genre": "KIDS & FAMILY"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/dc.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "author" : {
+      "name" : "Applicaster"
+    },
+    "id" : "QBS-015",
+    "title" : "Featured Hero"
 }
