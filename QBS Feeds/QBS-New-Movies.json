@@ -74,6 +74,30 @@
                     ]
                 }
             ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-NM003",
+            "title": "Onward",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBNb3ZpZXMvUUJTLUR1bW15LU9ud2FyZC5qc29u"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Movie%20Posters/onward.jpg"
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "author" : {
