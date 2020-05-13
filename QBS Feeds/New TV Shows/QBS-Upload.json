@@ -1,0 +1,383 @@
+{
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-UP0001",
+      "title" : "START WATCHING",
+      "summary" : "S1 E1: Welcome to Upload",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/16x9-backdrop.jpg",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-UP0002",
+      "title" : "S1 E1: Welcome to Upload",
+      "summary" : "28 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/s1e1.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-UP0003",
+      "title" : "S1 E2: Five Stars",
+      "summary" : "26 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/s1e2.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-UP0004",
+      "title" : "S1 E3: The Funeral",
+      "summary" : "29 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/s1e3.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-UP0005",
+      "title" : "S1 E4: The Sex Suit",
+      "summary" : "27 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/s1e4.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-UP0006",
+      "title" : "S1 E5: The Grey Market",
+      "summary" : "25 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/s1e5.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-UP0007",
+      "title" : "S1 E6: The Sleepover",
+      "summary" : "26 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/s1e6.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-UP0008",
+      "title" : "S1 E7: Bring Your Dad to Work Day",
+      "summary" : "28 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/s1e7.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-UP0009",
+      "title" : "S1 E8: Shopping Other Digital After-Lives",
+      "summary" : "25 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/s1e8.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-UP0010",
+      "title" : "S1 E9: Update Eve",
+      "summary" : "28 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/s1e9.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS-UP0011",
+      "title" : "S1 E10: Freeyond",
+      "summary" : "26 Mins",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/s1e10.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions" : {}
+    }
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
+  "id" : "QBS-016",
+  "title" : "Upload",
+  "genre" : "SCI-FI",
+  "description" : "In 2033, people who are near death can be “uploaded” into virtual reality hotels run by 6 tech firms. Cash-strapped Nora lives in Brooklyn and works customer service for the luxurious “Lakeview” digital afterlife. When L.A. party-boy/coder Nathan’s self-driving car crashes, his high-maintenance girlfriend uploads him permanently into Nora’s VR world.",
+  "meta" : "2020 · 1 Seasons",
+  "cast" : "Cast: Andy Allo, Robbie Amell, Owen Daniels",
+  "subheader" : "All Episodes",
+  "media_group": [
+    {
+      "type": "image",
+      "media_item": [
+        {
+        "key": "image_hero",
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/16x9-backdrop.jpg",
+        "type": "extern_image"
+        }
+      ]
+    }
+  ]
+}
