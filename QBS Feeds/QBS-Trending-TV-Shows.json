@@ -1,0 +1,350 @@
+{
+    "type": {
+        "value": "feed"
+    },
+    "entry": [
+        {
+          "type": {
+              "value": "feed"
+          },
+          "id": "QBS-TTV001",
+          "title": "Upload",
+          "summary": "",
+          "content": {
+              "type": "feed",
+              "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1VcGxvYWQuanNvbg=="
+          },
+          "media_group": [
+              {
+                  "type": "image",
+                  "media_item": [
+                      {
+                          "type": "image",
+                          "key": "image_base",
+                          "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Upload/16x9-poster.jpg"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "type": {
+              "value": "feed"
+          },
+          "id": "QBS-TTV002",
+          "title": "Westworld",
+          "summary": "",
+          "content": {
+              "type": "feed",
+              "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+          },
+          "media_group": [
+              {
+                  "type": "image",
+                  "media_item": [
+                      {
+                          "type": "image",
+                          "key": "image_base",
+                          "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Westworld/16x9-poster.jpg"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "type": {
+              "value": "feed"
+          },
+          "id": "QBS-NTS003",
+          "title": "Better Call Saul",
+          "summary": "",
+          "content": {
+              "type": "feed",
+              "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+          },
+          "media_group": [
+              {
+                  "type": "image",
+                  "media_item": [
+                      {
+                          "type": "image",
+                          "key": "image_base",
+                          "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Better%20Call%20Saul/16x9-poster.jpg"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "type": {
+              "value": "feed"
+          },
+          "id": "QBS-TTV004",
+          "title": "Chernobyl",
+          "summary": "",
+          "content": {
+              "type": "feed",
+              "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+          },
+          "media_group": [
+              {
+                  "type": "image",
+                  "media_item": [
+                      {
+                          "type": "image",
+                          "key": "image_base",
+                          "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Chernobyl/16x9-poster.jpg"
+                      }
+                  ]
+              }
+          ]
+      },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-TTV005",
+            "title": "Killing Eve",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1LaWxsaW5nLUV2ZS5qc29u"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Killing%20Eve/16x9-poster.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-TTV006",
+            "title": "iZombie",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/iZombie/16x9-poster.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-TTV007",
+            "title": "Walking Dead",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Walking%20Dead/16x9-poster.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-TTV008",
+            "title": "What We Do In The Shadows",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XV0RJVFMuanNvbg=="
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/16x9-poster.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-TTV009",
+            "title": "Brooklyn Nine-Nine",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Brooklyn/16x9-poster.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-TTV010",
+            "title": "Bosch",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Bosch/16x9-poster.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-TTV011",
+            "title": "Game Of Thrones",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Game%20Of%20Thrones/16x9-poster.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-TTV012",
+            "title": "Mr Robot",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Mr%20Robot/16x9-poster.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-TTV013",
+            "title": "The Good Place",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/The%20Good%20Place/16x9-poster.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "QBS-TTV014",
+            "title": "Modern Family",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9OZXclMjBUViUyMFNob3dzL1FCUy1EdW1teS1XZXN0d29ybGQuanNvbg=="
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "type": "image",
+                            "key": "image_base",
+                            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/Modern%20Family/16x9-poster.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ],
+    "author" : {
+      "name" : "Applicaster"
+    },
+    "id" : "QBS-019",
+    "title" : "Trending TV Shows"
+}
