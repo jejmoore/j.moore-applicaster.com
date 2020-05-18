@@ -117,5 +117,17 @@
   },
   "id" : "NSB-02",
   "title" : "FEATURED",
-  "button" : "VIEW ALL"
+  "button" : "VIEW ALL",
+  "media_group": [
+  {
+    "type" : "image",
+    "media_item" : [
+      {
+      "key" : "image_hero",
+      "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NikeSB/Assets/Decorative/top-rip.png",
+      "type" : "extern_image"
+      }
+    ]
+  }
+  ]
 }
