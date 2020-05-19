@@ -1,0 +1,90 @@
+{
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "IT03-001",
+      "title" : "@2x 78% 200kb",
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+        "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Image%20Tests/Flash/Flash-1x1-%402x-78perc-200kb.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "IT03-002",
+      "title" : "@2x 51% 100kb",
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+        "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Image%20Tests/Flash/Flash-1x1-%402x-51perc-100kb.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "IT03-003",
+      "title" : "@2x 25% 50kb",
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+        "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Image%20Tests/Flash/Flash-1x1-%402x-25perc-50kb.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
+  "id" : "IT03",
+  "title" : "750x750 @2x"
+}

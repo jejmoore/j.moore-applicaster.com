@@ -1,0 +1,90 @@
+{
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "IT02-001",
+      "title" : "@3x 51% 200kb",
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+        "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Image%20Tests/Flash/Flash-1x1-%403x-51perc-200kb.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "IT02-002",
+      "title" : "@3x 26% 100kb",
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+        "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Image%20Tests/Flash/Flash-1x1-%403x-26perc-100kb.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "IT02-003",
+      "title" : "@3x 3% 50kb",
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+        {
+        "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Image%20Tests/Flash/Flash-1x1-%403x-3perc-50kb.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
+  "id" : "IT02",
+  "title" : "1125x1125 @3x"
+}
