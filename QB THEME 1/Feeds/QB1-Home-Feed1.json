@@ -11,7 +11,8 @@
         "value" : "video"
       },
       "id" : "IT01-001",
-      "title" : "Full Res @3X 850kb",
+      "title" : "Top 10 killer brunch recipes to impress your friends with",
+      "summary" : "5m ago",
       "link" : {
         "type" : "link",
         "href" : ""
@@ -27,7 +28,10 @@
             }
           ]
         }
-      ]
+      ],
+      "extensions": {
+        "category": "Food & Drink"
+      },
     }
   ],
   "author" : {
