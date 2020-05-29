@@ -40,17 +40,5 @@
   "id" : "QB1-002",
   "title" : "Today's",
   "subtitle" : "Top Stories",
-  "button" : "VIEW MORE",
-  "media_group": [
-    {
-      "type": "image",
-      "media_item": [
-        {
-        "key": "image_icon",
-        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Cell%20Asset/SettingsBtn.png",
-        "type": "extern_image"
-        }
-      ]
-    }
-  ]
+  "button" : "VIEW MORE"
 }
