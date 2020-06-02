@@ -11,8 +11,8 @@
         "value" : "video"
       },
       "id" : "QBP01-001",
-      "title" : "Top 10 killer brunch recipes to impress your friends with",
-      "summary" : "5m ago",
+      "title" : "How Chris Hemsworth gets in shape",
+      "summary" : "Author Name  ·  5m ago",
       "link" : {
         "type" : "link",
         "href" : ""
@@ -30,7 +30,7 @@
         }
       ],
       "extensions": {
-        "category": "Health"
+        "category": "Fitness"
       }
     },
     {
@@ -41,8 +41,8 @@
         "value" : "video"
       },
       "id" : "QBP01-002",
-      "title" : "Top 10 killer brunch recipes to impress your friends with",
-      "summary" : "5m ago",
+      "title" : "The only TRX exercises you'll ever need to do",
+      "summary" : "Author Name  ·  11m ago",
       "link" : {
         "type" : "link",
         "href" : ""
@@ -60,7 +60,7 @@
         }
       ],
       "extensions": {
-        "category": "Lifestyle"
+        "category": "Fitness"
       }
     },
     {
@@ -71,8 +71,8 @@
         "value" : "video"
       },
       "id" : "QBP01-003",
-      "title" : "Top 10 killer brunch recipes to impress your friends with",
-      "summary" : "5m ago",
+      "title" : "Take your barbecue to the next level with these delivery boxes",
+      "summary" : "Author Name  ·  32m ago",
       "link" : {
         "type" : "link",
         "href" : ""
@@ -101,8 +101,8 @@
         "value" : "video"
       },
       "id" : "QBP01-004",
-      "title" : "Top 10 killer brunch recipes to impress your friends with",
-      "summary" : "5m ago",
+      "title" : "The 22 new rules of business etiquette",
+      "summary" : "Author Name  ·  44m ago",
       "link" : {
         "type" : "link",
         "href" : ""
@@ -120,7 +120,7 @@
         }
       ],
       "extensions": {
-        "category": "Food & Drink"
+        "category": "Business"
       }
     },
     {
@@ -131,8 +131,8 @@
         "value" : "video"
       },
       "id" : "QBP01-005",
-      "title" : "Top 10 killer brunch recipes to impress your friends with",
-      "summary" : "5m ago",
+      "title" : "How to use mindfulness to de-stress, according to its modern founder",
+      "summary" : "Author Name  ·  2h ago",
       "link" : {
         "type" : "link",
         "href" : ""
@@ -150,7 +150,7 @@
         }
       ],
       "extensions": {
-        "category": "Food & Drink"
+        "category": "Wellbeing"
       }
     }
   ],
