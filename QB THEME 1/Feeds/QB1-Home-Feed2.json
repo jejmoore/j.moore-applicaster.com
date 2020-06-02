@@ -8,14 +8,14 @@
         "name" : "Admin"
       },
       "type" : {
-        "value" : "video"
+        "value" : "link"
       },
       "id" : "QBP03-001",
-      "title" : "Top 10 killer brunch recipes to impress your friends with",
-      "summary" : "5m ago",
+      "title" : "Ring Fit Adventure is a great workout with an ingenious approach",
+      "summary" : "By David Levesley  ·  31 May 2020",
       "link" : {
         "type" : "link",
-        "href" : ""
+        "href" : "https://www.gq-magazine.co.uk/lifestyle/article/ring-fit-adventure-review"
       },
       "media_group": [
         {
@@ -30,7 +30,7 @@
         }
       ],
       "extensions": {
-        "category": "Health"
+        "category": "Fitness"
       }
     },
     {
@@ -41,11 +41,11 @@
         "value" : "video"
       },
       "id" : "QBP03-002",
-      "title" : "Top 10 killer brunch recipes to impress your friends with",
-      "summary" : "5m ago",
+      "title" : "Clint Eastwood’s car collection will make your day",
+      "summary" : "By Paul Henderson  ·  31 May 2020",
       "link" : {
         "type" : "link",
-        "href" : ""
+        "href" : "https://www.gq-magazine.co.uk/cars/article/clint-eastwood-car-collection"
       },
       "media_group": [
         {
@@ -60,7 +60,7 @@
         }
       ],
       "extensions": {
-        "category": "Lifestyle"
+        "category": "Cars"
       }
     },
     {
@@ -98,14 +98,14 @@
         "name" : "Admin"
       },
       "type" : {
-        "value" : "video"
+        "value" : "link"
       },
       "id" : "QBP03-004",
-      "title" : "Top 10 killer brunch recipes to impress your friends with",
-      "summary" : "5m ago",
+      "title" : "53 of the best Amazon Prime series and movies to watch",
+      "summary" : "By Olive Pometsey, Ben Allen  ·  15 May 2020",
       "link" : {
         "type" : "link",
-        "href" : ""
+        "href" : "https://www.gq-magazine.co.uk/culture/gallery/best-amazon-prime-series-movies"
       },
       "media_group": [
         {
@@ -120,7 +120,7 @@
         }
       ],
       "extensions": {
-        "category": "Food & Drink"
+        "category": "Film & TV"
       }
     },
     {
@@ -128,14 +128,14 @@
         "name" : "Admin"
       },
       "type" : {
-        "value" : "video"
+        "value" : "link"
       },
       "id" : "QBP03-005",
-      "title" : "Top 10 killer brunch recipes to impress your friends with",
-      "summary" : "5m ago",
+      "title" : "Michelle Obama's Netflix documentary Becoming reminds us what a good leader looks like",
+      "summary" : "By Olive Pometsey  ·  6 May 2020",
       "link" : {
         "type" : "link",
-        "href" : ""
+        "href" : "https://www.gq-magazine.co.uk/culture/article/michelle-obama-becoming-review-netflix"
       },
       "media_group": [
         {
@@ -150,7 +150,7 @@
         }
       ],
       "extensions": {
-        "category": "Food & Drink"
+        "category": "Film & TV"
       }
     }
   ],
