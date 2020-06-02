@@ -41,7 +41,7 @@
         "value" : "video"
       },
       "id" : "QBP01-002",
-      "title" : "The only TRX exercises you'll ever need to do",
+      "title" : "15 best Masterclass courses to learn new skills from the pros",
       "summary" : "Author Name  ·  11m ago",
       "link" : {
         "type" : "link",
@@ -53,14 +53,14 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/trx.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/masterclass.jpg",
             "type": "extern_image"
             }
           ]
         }
       ],
       "extensions": {
-        "category": "Fitness"
+        "category": "Culture"
       }
     },
     {
@@ -71,7 +71,7 @@
         "value" : "video"
       },
       "id" : "QBP01-003",
-      "title" : "Take your barbecue to the next level with these delivery boxes",
+      "title" : "How to make a one-pan pizza in 20 minutes",
       "summary" : "Author Name  ·  32m ago",
       "link" : {
         "type" : "link",
@@ -83,7 +83,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/bbq.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/pizza.jpg",
             "type": "extern_image"
             }
           ]
