@@ -11,7 +11,7 @@
         "value" : "link"
       },
       "id" : "QBP01-001",
-      "title" : "How Chris Hemsworth gets in shape",
+      "title" : "Chris Hemsworth's stunt double on how to do his Extraction training at home",
       "summary" : "Author Name  ·  5m ago",
       "link" : {
         "type" : "link",
@@ -23,14 +23,14 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/weight.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/centr.jpg",
             "type": "extern_image"
             }
           ]
         }
       ],
       "extensions": {
-        "category": "Fitness"
+        "category": "FITNESS"
       }
     },
     {
@@ -60,7 +60,7 @@
         }
       ],
       "extensions": {
-        "category": "Culture"
+        "category": "CULTURE"
       }
     },
     {
@@ -90,7 +90,7 @@
         }
       ],
       "extensions": {
-        "category": "Food & Drink"
+        "category": "FOOD & DRINK"
       }
     },
     {
@@ -120,7 +120,7 @@
         }
       ],
       "extensions": {
-        "category": "Fitness"
+        "category": "FITNESS"
       }
     },
     {
@@ -150,7 +150,7 @@
         }
       ],
       "extensions": {
-        "category": "Wellbeing"
+        "category": "WELLBEING"
       }
     }
   ],
