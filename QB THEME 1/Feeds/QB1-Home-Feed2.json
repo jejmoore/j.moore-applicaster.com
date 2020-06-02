@@ -68,14 +68,14 @@
         "name" : "Admin"
       },
       "type" : {
-        "value" : "video"
+        "value" : "link"
       },
       "id" : "QBP03-003",
-      "title" : "Top 10 killer brunch recipes to impress your friends with",
-      "summary" : "5m ago",
+      "title" : "“The world’s going to hell, I should be alert for this”: 5 people on being sober in quarantine",
+      "summary" : "By Gabriella Paiella  ·  22 May 2020",
       "link" : {
         "type" : "link",
-        "href" : ""
+        "href" : "https://www.gq-magazine.co.uk/lifestyle/article/sober-in-quarantine"
       },
       "media_group": [
         {
@@ -90,7 +90,7 @@
         }
       ],
       "extensions": {
-        "category": "Food & Drink"
+        "category": "Lifestyle"
       }
     },
     {
