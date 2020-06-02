@@ -8,14 +8,14 @@
         "name" : "Admin"
       },
       "type" : {
-        "value" : "video"
+        "value" : "link"
       },
       "id" : "QBP01-001",
       "title" : "How Chris Hemsworth gets in shape",
       "summary" : "Author Name  ·  5m ago",
       "link" : {
         "type" : "link",
-        "href" : ""
+        "href" : "https://www.applicaster.com/about-us"
       },
       "media_group": [
         {
@@ -132,7 +132,7 @@
       },
       "id" : "QBP01-005",
       "title" : "How to use mindfulness to de-stress, according to its modern founder",
-      "summary" : "Author Name  ·  3h ago",
+      "summary" : "Author Name  ·  2h ago",
       "link" : {
         "type" : "link",
         "href" : ""
