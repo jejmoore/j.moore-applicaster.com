@@ -23,7 +23,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Image%20Tests/Flash/Flash-1x1-%403x.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/centr.jpg",
             "type": "extern_image"
             }
           ]
@@ -53,7 +53,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Image%20Tests/Flash/Flash-1x1-%403x.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/trx.jpg",
             "type": "extern_image"
             }
           ]
@@ -83,7 +83,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Image%20Tests/Flash/Flash-1x1-%403x.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/bbq.jpg",
             "type": "extern_image"
             }
           ]
@@ -101,7 +101,7 @@
         "value" : "video"
       },
       "id" : "QBP01-004",
-      "title" : "The 22 new rules of business etiquette",
+      "title" : "5 workouts for a stronger core in 10 Minutes or less",
       "summary" : "Author Name  ·  44m ago",
       "link" : {
         "type" : "link",
@@ -113,14 +113,14 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Image%20Tests/Flash/Flash-1x1-%403x.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/core.jpg",
             "type": "extern_image"
             }
           ]
         }
       ],
       "extensions": {
-        "category": "Business"
+        "category": "Fitness"
       }
     },
     {
@@ -143,7 +143,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Image%20Tests/Flash/Flash-1x1-%403x.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/mindful.jpg",
             "type": "extern_image"
             }
           ]
