@@ -43,7 +43,7 @@
       },
       "id" : "QBP01-002",
       "title" : "15 best Masterclass courses to learn new skills from the pros",
-      "summary" : "David Levesley  ·  29 May 2020",
+      "summary" : "Summary Text",
       "link" : {
         "type" : "link",
         "href" : "https://www.gq-magazine.co.uk/culture/gallery/best-masterclass-courses"
@@ -61,7 +61,8 @@
         }
       ],
       "extensions": {
-        "category": "CULTURE"
+        "category": "CULTURE",
+        "meta": "David Levesley  ·  29 May 2020"
       }
     },
     {
