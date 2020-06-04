@@ -12,7 +12,7 @@
       },
       "id" : "QBP01-001",
       "title" : "How Chris Hemsworth gets in shape",
-      "summary" : "David Levesley  ·  17 March 2020",
+      "summary" : "David Levesley  ·  1 June 2020",
       "link" : {
         "type" : "link",
         "href" : "https://www.gq-magazine.co.uk/lifestyle/article/chris-hemsworth-workout"
@@ -42,7 +42,7 @@
       },
       "id" : "QBP01-002",
       "title" : "15 best Masterclass courses to learn new skills from the pros",
-      "summary" : "Author Name  ·  11m ago",
+      "summary" : "David Levesley  ·  29 May 2020",
       "link" : {
         "type" : "link",
         "href" : "https://www.gq-magazine.co.uk/culture/gallery/best-masterclass-courses"
@@ -72,7 +72,7 @@
       },
       "id" : "QBP01-003",
       "title" : "How to make a one-pan pizza in 20 minutes",
-      "summary" : "Author Name  ·  32m ago",
+      "summary" : "David Levesley  ·  28 May 2020",
       "link" : {
         "type" : "link",
         "href" : "https://www.gq-magazine.co.uk/lifestyle/article/one-pan-pizza-recipe"
@@ -102,7 +102,7 @@
       },
       "id" : "QBP01-004",
       "title" : "5 workouts for a stronger core in 10 Minutes or less",
-      "summary" : "Author Name  ·  44m ago",
+      "summary" : "David Levesley  ·  27 May 2020",
       "link" : {
         "type" : "link",
         "href" : "https://www.gq-magazine.co.uk/lifestyle/article/5-core-workouts"
@@ -132,7 +132,7 @@
       },
       "id" : "QBP01-005",
       "title" : "How to use mindfulness to de-stress, according to its modern founder",
-      "summary" : "Author Name  ·  2h ago",
+      "summary" : "David Levesley  ·  25 May 2020",
       "link" : {
         "type" : "link",
         "href" : "https://www.gq-magazine.co.uk/lifestyle/article/mindfulness-jon-kabat-zinn"
@@ -158,7 +158,6 @@
     "name" : "Applicaster"
   },
   "id" : "QBP-002",
-  "title" : "Today's",
-  "subtitle" : "Top Stories",
+  "title" : "Today's Top Stories",
   "button" : "VIEW MORE"
 }
