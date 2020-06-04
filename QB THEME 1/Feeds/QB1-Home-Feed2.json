@@ -12,7 +12,7 @@
       },
       "id" : "QBP03-001",
       "title" : "Ring Fit Adventure is a great workout with an ingenious approach",
-      "summary" : "By David Levesley  ·  31 May 2020",
+      "summary" : "Summary text",
       "link" : {
         "type" : "link",
         "href" : "https://www.gq-magazine.co.uk/lifestyle/article/ring-fit-adventure-review"
@@ -30,7 +30,8 @@
         }
       ],
       "extensions": {
-        "category": "Fitness"
+        "category": "FITNESS",
+        "meta": "By David Levesley  ·  31 May 2020"
       }
     },
     {
@@ -42,7 +43,7 @@
       },
       "id" : "QBP03-002",
       "title" : "Clint Eastwood’s car collection will make your day",
-      "summary" : "By Paul Henderson  ·  31 May 2020",
+      "summary" : "Summary text",
       "link" : {
         "type" : "link",
         "href" : "https://www.gq-magazine.co.uk/cars/article/clint-eastwood-car-collection"
@@ -60,7 +61,8 @@
         }
       ],
       "extensions": {
-        "category": "Cars"
+        "category": "CARS",
+        "meta": "By Paul Henderson  ·  31 May 2020"
       }
     },
     {
@@ -72,7 +74,7 @@
       },
       "id" : "QBP03-003",
       "title" : "“The world’s going to hell, I should be alert for this”: 5 people on being sober in quarantine",
-      "summary" : "By Gabriella Paiella  ·  22 May 2020",
+      "summary" : "Summary text",
       "link" : {
         "type" : "link",
         "href" : "https://www.gq-magazine.co.uk/lifestyle/article/sober-in-quarantine"
@@ -90,7 +92,8 @@
         }
       ],
       "extensions": {
-        "category": "Lifestyle"
+        "category": "LIFESTYLE",
+        "meta": "By Gabriella Paiella  ·  22 May 2020"
       }
     },
     {
@@ -102,7 +105,7 @@
       },
       "id" : "QBP03-004",
       "title" : "53 of the best Amazon Prime series and movies to watch",
-      "summary" : "By Olive Pometsey, Ben Allen  ·  15 May 2020",
+      "summary" : "Summary text",
       "link" : {
         "type" : "link",
         "href" : "https://www.gq-magazine.co.uk/culture/gallery/best-amazon-prime-series-movies"
@@ -120,7 +123,8 @@
         }
       ],
       "extensions": {
-        "category": "Film & TV"
+        "category": "Film & TV",
+        "meta": "By Olive Pometsey, Ben Allen  ·  15 May 2020"
       }
     },
     {
@@ -132,7 +136,7 @@
       },
       "id" : "QBP03-005",
       "title" : "Michelle Obama's Netflix documentary Becoming reminds us what a good leader looks like",
-      "summary" : "By Olive Pometsey  ·  6 May 2020",
+      "summary" : "Summary text",
       "link" : {
         "type" : "link",
         "href" : "https://www.gq-magazine.co.uk/culture/article/michelle-obama-becoming-review-netflix"
@@ -150,7 +154,8 @@
         }
       ],
       "extensions": {
-        "category": "Film & TV"
+        "category": "FILM & TV",
+        "meta": "By Olive Pometsey  ·  6 May 2020"
       }
     }
   ],
