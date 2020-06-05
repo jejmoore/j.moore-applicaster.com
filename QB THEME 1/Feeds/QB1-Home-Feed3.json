@@ -1,0 +1,168 @@
+{
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBP03-001",
+      "title" : "Iggy Pop has an unbelievable car collection",
+      "summary" : "He is The Passenger, but Iggy Pop definitely prefers being the driver",
+      "link" : {
+        "type" : "link",
+        "href" : "https://www.gq-magazine.co.uk/lifestyle/article/chris-hemsworth-workout"
+      },
+      "media_group": [
+        {
+        "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/iggy.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "category": "CARS",
+        "meta" : "By Benjie Goodhart  ·  21 April 2020"
+      }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBP03-002",
+      "title" : "Kylie Minogue's birthday present to us: more disco",
+      "summary" : "After five GQ covers, it's safe to say we're pretty big fans of Ms Minogue",
+      "link" : {
+        "type" : "link",
+        "href" : "https://www.gq-magazine.co.uk/culture/gallery/best-masterclass-courses"
+      },
+      "media_group": [
+        {
+        "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/kylie.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "category": "MUSIC",
+        "meta": "David Levesley  ·  28 May 2020"
+      }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBP03-003",
+      "title" : "Step up your home cooking game with this crispy panko-coated aubergine recipe",
+      "summary" : "The veggie dish from Rüya’s Executive chef Colin Clague is served with Isli patlican purée",
+      "link" : {
+        "type" : "link",
+        "href" : "https://www.gq-magazine.co.uk/lifestyle/article/one-pan-pizza-recipe"
+      },
+      "media_group": [
+        {
+        "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/recipe.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "category": "FOOD & DRINK",
+        "meta": "By Paul Henderson  ·  4 May 2020"
+      }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBP03-004",
+      "title" : "Action Bronson on the meals he’s cooking to get him through quarantine",
+      "summary" : "The rapper and F—k, That's Delicious host tells GQ what he's been eating in self-isolation. ",
+      "link" : {
+        "type" : "link",
+        "href" : "https://www.gq-magazine.co.uk/lifestyle/article/5-core-workouts"
+      },
+      "media_group": [
+        {
+        "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/actionBronson.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "category": "FOOD & DRINK",
+        "meta": "By James Grebey  ·  10 May 2020"
+      }
+    },
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "link"
+      },
+      "id" : "QBP01-006",
+      "title" : "The only cycling workout you need this summer for legs, glutes and core",
+      "summary" : "Movement coach and personal trainer Kim Hartwell has designed a cycling workout for Canyon’s Ride Your Workout campaign this summer, focusing on legs, glutes and your core",
+      "link" : {
+        "type" : "link",
+        "href" : "https://www.gq-magazine.co.uk/lifestyle/article/mindfulness-jon-kabat-zinn"
+      },
+      "media_group": [
+        {
+        "type": "image",
+          "media_item": [
+            {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/cycle.jpg",
+            "type": "extern_image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "category": "FITNESS",
+        "meta": "By Kim Hartwell  ·  7 April 2020"
+      }
+    }
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
+  "id" : "QBP-003",
+  "title" : "Long Reads",
+  "button" : "VIEW MORE"
+}
