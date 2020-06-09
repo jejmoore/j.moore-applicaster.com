@@ -23,7 +23,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/vanscomp.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/vanscomp.png",
             "type": "extern_image"
             }
           ]
@@ -53,7 +53,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/xgames.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/xgames.png",
             "type": "extern_image"
             }
           ]
@@ -83,7 +83,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/rippers.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/rippers.png",
             "type": "extern_image"
             }
           ]
@@ -113,7 +113,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/dew.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/dew.png",
             "type": "extern_image"
             }
           ]
