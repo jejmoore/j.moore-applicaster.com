@@ -15,7 +15,7 @@
       "summary" : "9 Videos",
       "link" : {
         "type" : "link",
-        "href" : "https://www.gq-magazine.co.uk/lifestyle/article/best-oblique-exercises"
+        "href" : ""
       },
       "media_group": [
         {
@@ -23,7 +23,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/obliques.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/redbull.jpg",
             "type": "extern_image"
             }
           ]
@@ -45,7 +45,7 @@
       "summary" : "12 Videos",
       "link" : {
         "type" : "link",
-        "href" : "https://www.gq-magazine.co.uk/lifestyle/article/ring-fit-adventure-review"
+        "href" : ""
       },
       "media_group": [
         {
@@ -53,7 +53,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/ring.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/content3.jpg",
             "type": "extern_image"
             }
           ]
@@ -75,7 +75,7 @@
       "summary" : "10 Videos",
       "link" : {
         "type" : "link",
-        "href" : "https://www.gq-magazine.co.uk/lifestyle/article/steve-aoki-neon-future-iv"
+        "href" : ""
       },
       "media_group": [
         {
@@ -83,7 +83,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/aoki.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/content5.jpg",
             "type": "extern_image"
             }
           ]
@@ -105,7 +105,7 @@
       "summary" : "8 Videos",
       "link" : {
         "type" : "link",
-        "href" : "https://www.gq-magazine.co.uk/lifestyle/article/dumbbell-exercises"
+        "href" : ""
       },
       "media_group": [
         {
@@ -113,7 +113,7 @@
           "media_item": [
             {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/dumbbell.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Theme%202/Content%20Assets/content2.jpg",
             "type": "extern_image"
             }
           ]
