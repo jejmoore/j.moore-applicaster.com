@@ -40,7 +40,21 @@
       ]
       }
       ],
-      "extensions" : {}
+      "extensions" : {
+        "media_group": [
+          {
+          "type": "image",
+          "media_item": [
+          {
+            "key": "image_logo",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Roku/Logos/em-logo.png",
+            "type": "extern_image"
+          }
+          ]
+          }
+          ]
+
+      }
     },
     {
       "author" : {
@@ -166,4 +180,3 @@
   "id" : "R-001",
   "title" : "Featured"
 }
-
