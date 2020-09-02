@@ -9,32 +9,23 @@
     },
     "entry": [
         {
-        "author": {
-            "name": "Admin"
-        },
         "type": {
             "value": "video"
         },
         "id": "QB001",
         "title": "Content Title",
         "summary": "Description",
-        "published": "2005-04-06T20:25:05-08:00",
-        "updated": "2005-04-06T20:25:05-08:00",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
             "type": "video/hls"
-        },
-        "link": {
-            "type": "link",
-            "href": ""
-        },
+        },        
         "media_group": [
         {
         "type": "image",
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/morning-show.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_1.jpg",
             "type": "extern_image"
         }
         ]
