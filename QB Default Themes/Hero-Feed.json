@@ -31,7 +31,9 @@
         ]
         }
         ],
-        "extensions": {}
+        "extensions": {
+            "cta" : "NEW"
+        }
         },
         {
         "author": {
