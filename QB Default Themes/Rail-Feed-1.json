@@ -1,0 +1,137 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "QB-Default-02",
+    "title": "Feed Title",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "QB016",
+        "title": "Content Title",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_16.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "QB014",
+        "title": "Content Title",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_14.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "QB013",
+        "title": "Content Title",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_13.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "QB002",
+        "title": "Content Title",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_2.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "QB008",
+        "title": "Content Title",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_8.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        }
+    ]
+}
