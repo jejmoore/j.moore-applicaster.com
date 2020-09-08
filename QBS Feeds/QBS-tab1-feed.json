@@ -1,99 +1,124 @@
 {
-"type": {
-"value": "feed"
-},
-"title": "day 0",
-"entry": [
-{
-"type": {
-"value": "feed"
-},
-"id": 52931,
-"title": "day 0",
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"src": null,
-"key": "image_base",
-"type": "image"
-}
-]
-}
-],
-"screen_type": "dc47aecb-95f4-4db1-be28-b1b57274c976",
-"link": {
-"type": "atom",
-"rel": "self",
-"href": null
-},
-"content": {
-"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLmpzb24="
-}
-},
-{
-"type": {
-"value": "feed"
-},
-"id": 52932,
-"title": "day 1",
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"src": null,
-"key": "image_base",
-"type": "image"
-}
-]
-}
-],
-"screen_type": "1134ee11-a5f5-4094-ad38-641fd9b6ebb9",
-"link": {
-"type": "atom",
-"rel": "self",
-"href": null
-},
-"content": {
-"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLmpzb24="
-}
-},
-{
-"type": {
-"value": "feed"
-},
-"id": 52933,
-"title": "day 2",
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"src": null,
-"key": "image_base",
-"type": "image"
-}
-]
-}
-],
-"screen_type": "dc47aecb-95f4-4db1-be28-b1b57274c976",
-"link": {
-"type": "atom",
-"rel": "self",
-"href": null
-},
-"content": {
-"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLmpzb24="
-}
-}
-],
-"content": {
-"src": "applicaster://fetchData?url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLmpzb24=",
-"type": "atom"
-},
-"author": {
-"name": "applicaster"
-}
+    "type": {
+        "value": "feed"
+    },
+    "title": "Schedule",
+    "id": "123",
+    "content": {},
+    "entry": [
+    {
+        "type": {
+            "value": "video"
+        },
+        "title": "Prodigal Son",
+        "id": "QBS-LE0006",
+        "summary": "S1 E5 All Souls and Sadists",
+        "published": "2020-01-10T00:00+00:00",
+        "updated": "2020-01-17T00:00+00:00",
+        "author": {
+        "name": ""
+        },
+        "media_group": [
+        {
+            "type": "image",
+            "media_item": [
+            {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/prodigal.jpg",
+                "key": "image_base",
+                "type": "extern_image"
+            }
+            ]
+        }
+        ],
+        "extensions": {
+            "section": "",
+            "duration": 580,
+            "free": true,
+            "language": "English",
+            "start_time": "12:15",
+            "end_time": "14:00",
+            "duration_time": "1:45"
+        },
+        "content": {
+            "type": "video/hls",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
+        }
+    },
+    {
+        "type": {
+            "value": "video"
+        },
+        "title": "What We Do In The Shadows",
+        "id": "QBS-LE0005",
+        "summary": "S2 E1 Resurrection",
+        "published": "2020-02-12T00:00+00:00",
+        "updated": "2020-02-12T00:00+00:00",
+        "author": {
+        "name": ""
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/shadows.jpg",
+            "key": "image_base",
+            "type": "extern_image"
+            }
+            ]
+        }
+        ],
+        "extensions": {
+            "section": "",
+            "duration": 3492,
+            "free": true,
+            "language": "English",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "duration_time": "1:45"
+        },
+        "content": {
+            "type": "video/hls",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
+        }
+    },
+    {
+        "type": {
+            "value": "video"
+        },
+        "title": "See",
+        "id": "QBS-LE0004",
+        "summary": "S1 E2 Message in a Bottle",
+        "published": "2020-01-10T00:00+00:00",
+        "updated": "2020-01-17T00:00+00:00",
+        "author": {
+        "name": ""
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/see.jpg",
+            "key": "image_base",
+            "type": "extern_image"
+            }
+            ]
+        }
+        ],
+        "extensions": {
+            "section": "",
+            "duration": 3492,
+            "free": true,
+            "language": "English",
+            "start_time": "14:00",
+            "end_time": "14:00",
+            "duration_time": "1:45"
+        },
+        "content": {
+            "type": "video/hls",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
+        }
+    }
+    ]
 }
