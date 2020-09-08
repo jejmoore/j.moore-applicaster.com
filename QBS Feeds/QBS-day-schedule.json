@@ -10,9 +10,9 @@
 "type": {
 "value": "video"
 },
-"title": "Prodigal",
-"id": "39",
-"summary": "Episode Name",
+"title": "Prodigal Son",
+"id": "QBS-LE0006",
+"summary": "S1 E5 All Souls and Sadists",
 "published": "2020-01-10T00:00+00:00",
 "updated": "2020-01-17T00:00+00:00",
 "author": {
@@ -53,9 +53,9 @@
 "type": {
 "value": "video"
 },
-"title": "Syamla Bandla, Facebook | CloudNOW 'Top Women In Cloud' Awards 2020",
-"id": "19",
-"summary": "Syamla Bandla",
+"title": "What We Do In The Shadows",
+"id": "QBS-LE0005",
+"summary": "S2 E1 Resurrection",
 "published": "2020-02-12T00:00+00:00",
 "updated": "2020-02-12T00:00+00:00",
 "author": {
@@ -66,7 +66,7 @@
 "type": "image",
 "media_item": [
 {
-"src": "http://i3.ytimg.com/vi/viZQkAwJGjc/maxresdefault.jpg",
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/shadows.jpg",
 "key": "image_base",
 "type": "extern_image"
 }
@@ -86,16 +86,16 @@
 },
 "content": {
 "type": "video/hls",
-"src": "https://www.youtube.com/watch?v=viZQkAwJGjc"
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
 }
 },
 {
 "type": {
 "value": "video"
 },
-"title": "GHC 19 - Abie Award Series: Journey of an Outsider - From Newly-Minted Ph.D. to Associate Professor",
-"id": "2",
-"summary": "Dr. Thamar Solorio",
+"title": "See",
+"id": "QBS-LE0004",
+"summary": "S1 E2 Message in a Bottle",
 "published": "2020-01-10T00:00+00:00",
 "updated": "2020-01-17T00:00+00:00",
 "author": {
@@ -106,7 +106,7 @@
 "type": "image",
 "media_item": [
 {
-"src": "http://i3.ytimg.com/vi/S6wgn7KOK8M/maxresdefault.jpg",
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/see.jpg",
 "key": "image_base",
 "type": "extern_image"
 }
@@ -129,7 +129,7 @@
 },
 "content": {
 "type": "video/hls",
-"src": "https://www.youtube.com/watch?v=S6wgn7KOK8M"
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
 }
 }
 ]
