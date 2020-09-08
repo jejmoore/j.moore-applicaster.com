@@ -1,0 +1,124 @@
+{
+    "type": {
+        "value": "feed"
+    },
+    "title": "Schedule",
+    "id": "EPG001",
+    "content": {},
+    "entry": [
+        {
+            "type": {
+            "value": "video"
+        },
+        "title": "Prodigal",
+        "id": "EPGI001",
+        "summary": "Episode title",    
+        "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+                {
+                    "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/prodigal.jpg",
+                    "key": "image_base",
+                    "type": "extern_image"
+                }
+                ]
+            }
+        ],
+        "extensions": {
+            "duration": 580,
+            "free": true,
+            "language": "English",
+            "start_time": "12:15",
+            "end_time": "14:00",
+            "duration_time": "1:45"
+        },
+        "content": {
+            "type": "video/hls",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
+        }
+    },
+    {
+        "type": {
+            "value": "feed"
+        },
+        "title": "Schedule",
+        "id": "EPG002",
+        "content": {},
+        "entry": [
+        {
+            "type": {
+            "value": "video"
+        },
+        "title": "Prodigal",
+        "id": "EPGI001",
+        "summary": "Episode title",    
+        "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+                {
+                    "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/prodigal.jpg",
+                    "key": "image_base",
+                    "type": "extern_image"
+                }
+                ]
+            }
+        ],
+        
+        "extensions": {
+            "duration": 580,
+            "free": true,
+            "language": "English",
+            "start_time": "12:15",
+            "end_time": "14:00",
+            "duration_time": "1:45"
+        },
+        "content": {
+            "type": "video/hls",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
+        }
+    },
+    {
+        "type": {
+            "value": "feed"
+        },
+        "title": "Schedule",
+        "id": "EPG003",
+        "content": {},
+        "entry": [
+        {
+            "type": {
+            "value": "video"
+        },
+        "title": "Prodigal",
+        "id": "EPGI001",
+        "summary": "Episode title",    
+        "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+                {
+                    "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/prodigal.jpg",
+                    "key": "image_base",
+                    "type": "extern_image"
+                }
+                ]
+            }
+        ],
+        
+        "extensions": {
+            "duration": 580,
+            "free": true,
+            "language": "English",
+            "start_time": "12:15",
+            "end_time": "14:00",
+            "duration_time": "1:45"
+        },
+        "content": {
+            "type": "video/hls",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
+        }
+    }
+]
+}
