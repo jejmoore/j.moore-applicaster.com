@@ -29,7 +29,7 @@
 "href": null
 },
 "content": {
-"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9kbC5kcm9wYm94LmNvbS9zLzh1c2l6NHF4NHMxbDNyei9saXN0MV9mZWVkLmpzb24%2FZGw9MA%3D%3D"
+"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLmpzb24="
 }
 },
 {
@@ -57,7 +57,7 @@
 "href": null
 },
 "content": {
-"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9kbC5kcm9wYm94LmNvbS9zLzh1c2l6NHF4NHMxbDNyei9saXN0MV9mZWVkLmpzb24%2FZGw9MA%3D%3D"
+"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLmpzb24="
 }
 },
 {
@@ -85,7 +85,7 @@
 "href": null
 },
 "content": {
-"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9kbC5kcm9wYm94LmNvbS9zLzh1c2l6NHF4NHMxbDNyei9saXN0MV9mZWVkLmpzb24%2FZGw9MA%3D%3D"
+"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLmpzb24="
 }
 }
 ],
