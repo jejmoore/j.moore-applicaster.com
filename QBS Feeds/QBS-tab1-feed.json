@@ -90,7 +90,7 @@
 }
 ],
 "content": {
-"src": "applicaster://fetchData?url=aHR0cHM6Ly9hc3NldHMtc2VjdXJlLmFwcGxpY2FzdGVyLmNvbS96YXBwL2FjY291bnRzLzVlMTMyYzkwNjY2MzMzMDAwOGMwZjhhYi9hcHBfZmFtaWxpZXMvMTczNC9mZWVkcy81Y2U5ZjQ2Zi1kOTJiLTQ4YWItYTBlYS1mYjQ4ZGQwMjFlMWMuanNvbg%3D%3D&type=manual",
+"src": "applicaster://fetchData?url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLmpzb24=",
 "type": "atom"
 },
 "author": {
