@@ -134,6 +134,49 @@
             "type": "video/hls",
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
         }
+    },
+    {
+        "type": {
+            "value": "video"
+        },
+        "title": "The Morning Show",
+        "id": "QBS-LE0001",
+        "summary": "S1 E2 A Seat at the Table",
+        "published": "2020-01-10T00:00+00:00",
+        "updated": "2020-01-17T00:00+00:00",
+        "author": {
+        "name": ""
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/morning-show.jpg",
+            "key": "image_base",
+            "type": "extern_image"
+            }
+            ]
+        }
+        ],
+        "link": {
+            "rel": "alternate",
+            "href": "",
+            "type": "text/html"
+        },
+        "extensions": {
+            "section": "",
+            "duration": 3492,
+            "free": true,
+            "language": "English",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "duration_time": "1:45"
+        },
+        "content": {
+            "type": "video/hls",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
+        }
     }
     ]
 }
