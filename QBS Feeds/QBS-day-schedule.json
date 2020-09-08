@@ -1,124 +1,135 @@
 {
-    "type": {
-        "value": "feed"
-    },
-    "title": "Schedule",
-    "id": "EPG001",
-    "content": {},
-    "entry": [
-        {
-            "type": {
-            "value": "video"
-        },
-        "title": "Prodigal",
-        "id": "EPGI001",
-        "summary": "Episode title",    
-        "media_group": [
-            {
-            "type": "image",
-            "media_item": [
-                {
-                    "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/prodigal.jpg",
-                    "key": "image_base",
-                    "type": "extern_image"
-                }
-                ]
-            }
-        ],
-        "extensions": {
-            "duration": 580,
-            "free": true,
-            "language": "English",
-            "start_time": "12:15",
-            "end_time": "14:00",
-            "duration_time": "1:45"
-        },
-        "content": {
-            "type": "video/hls",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
-        }
-    },
-    {
-        "type": {
-            "value": "feed"
-        },
-        "title": "Schedule",
-        "id": "EPG002",
-        "content": {},
-        "entry": [
-        {
-            "type": {
-            "value": "video"
-        },
-        "title": "Prodigal",
-        "id": "EPGI001",
-        "summary": "Episode title",    
-        "media_group": [
-            {
-            "type": "image",
-            "media_item": [
-                {
-                    "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/prodigal.jpg",
-                    "key": "image_base",
-                    "type": "extern_image"
-                }
-                ]
-            }
-        ],
-        
-        "extensions": {
-            "duration": 580,
-            "free": true,
-            "language": "English",
-            "start_time": "12:15",
-            "end_time": "14:00",
-            "duration_time": "1:45"
-        },
-        "content": {
-            "type": "video/hls",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
-        }
-    },
-    {
-        "type": {
-            "value": "feed"
-        },
-        "title": "Schedule",
-        "id": "EPG003",
-        "content": {},
-        "entry": [
-        {
-            "type": {
-            "value": "video"
-        },
-        "title": "Prodigal",
-        "id": "EPGI001",
-        "summary": "Episode title",    
-        "media_group": [
-            {
-            "type": "image",
-            "media_item": [
-                {
-                    "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/prodigal.jpg",
-                    "key": "image_base",
-                    "type": "extern_image"
-                }
-                ]
-            }
-        ],
-        
-        "extensions": {
-            "duration": 580,
-            "free": true,
-            "language": "English",
-            "start_time": "12:15",
-            "end_time": "14:00",
-            "duration_time": "1:45"
-        },
-        "content": {
-            "type": "video/hls",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
-        }
-    }
+"type": {
+"value": "feed"
+},
+"title": "Awards",
+"id": "123",
+"content": {},
+"entry": [
+{
+"type": {
+"value": "video"
+},
+"title": "Mallun Yen, Operator Collective | CloudNOW 'Top Women In Cloud' Awards 2020",
+"id": "39",
+"summary": "Mallun Yen",
+"published": "2020-01-10T00:00+00:00",
+"updated": "2020-01-17T00:00+00:00",
+"author": {
+"name": ""
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"src": "http://i3.ytimg.com/vi/SKkUWDXTssU/maxresdefault.jpg",
+"key": "image_base",
+"type": "extern_image"
+}
+]
+}
+],
+"link": {
+"rel": "alternate",
+"href": "",
+"type": "text/html"
+},
+"extensions": {
+"section": "YouTube - SiliconANGLE theCUBE",
+"duration": 580,
+"free": true,
+"language": "English",
+"start_time": "12:15",
+"end_time": "14:00",
+"duration_time": "1:45"
+},
+"content": {
+"type": "video/hls",
+"src": "https://www.youtube.com/watch?v=SKkUWDXTssU"
+}
+},
+{
+"type": {
+"value": "video"
+},
+"title": "Syamla Bandla, Facebook | CloudNOW 'Top Women In Cloud' Awards 2020",
+"id": "19",
+"summary": "Syamla Bandla",
+"published": "2020-02-12T00:00+00:00",
+"updated": "2020-02-12T00:00+00:00",
+"author": {
+"name": ""
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"src": "http://i3.ytimg.com/vi/viZQkAwJGjc/maxresdefault.jpg",
+"key": "image_base",
+"type": "extern_image"
+}
+]
+}
+],
+"link": {
+"rel": "alternate",
+"href": "",
+"type": "text/html"
+},
+"extensions": {
+"section": "YouTube - SiliconANGLE theCUBE",
+"duration": 545,
+"free": true
+},
+"content": {
+"type": "video/hls",
+"src": "https://www.youtube.com/watch?v=viZQkAwJGjc"
+}
+},
+{
+"type": {
+"value": "video"
+},
+"title": "GHC 19 - Abie Award Series: Journey of an Outsider - From Newly-Minted Ph.D. to Associate Professor",
+"id": "2",
+"summary": "Dr. Thamar Solorio",
+"published": "2020-01-10T00:00+00:00",
+"updated": "2020-01-17T00:00+00:00",
+"author": {
+"name": ""
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"src": "http://i3.ytimg.com/vi/S6wgn7KOK8M/maxresdefault.jpg",
+"key": "image_base",
+"type": "extern_image"
+}
+]
+}
+],
+"link": {
+"rel": "alternate",
+"href": "",
+"type": "text/html"
+},
+"extensions": {
+"section": "YouTube - AnitaB_org",
+"duration": 3492,
+"free": true,
+"language": "English",
+"start_time": "12:15",
+"end_time": "14:00",
+"duration_time": "1:45"
+},
+"content": {
+"type": "video/hls",
+"src": "https://www.youtube.com/watch?v=S6wgn7KOK8M"
+}
+}
 ]
 }
