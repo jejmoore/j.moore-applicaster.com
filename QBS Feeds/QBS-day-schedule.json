@@ -2,7 +2,7 @@
 "type": {
 "value": "feed"
 },
-"title": "Awards",
+"title": "Schedule",
 "id": "123",
 "content": {},
 "entry": [
@@ -10,9 +10,9 @@
 "type": {
 "value": "video"
 },
-"title": "JMallun Yen, Operator Collective | CloudNOW 'Top Women In Cloud' Awards 2020",
+"title": "Prodigal",
 "id": "39",
-"summary": "JMallun Yen",
+"summary": "Episode Name",
 "published": "2020-01-10T00:00+00:00",
 "updated": "2020-01-17T00:00+00:00",
 "author": {
@@ -23,7 +23,7 @@
 "type": "image",
 "media_item": [
 {
-"src": "http://i3.ytimg.com/vi/SKkUWDXTssU/maxresdefault.jpg",
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Latest%20Episodes/prodigal.jpg",
 "key": "image_base",
 "type": "extern_image"
 }
@@ -46,7 +46,7 @@
 },
 "content": {
 "type": "video/hls",
-"src": "https://www.youtube.com/watch?v=SKkUWDXTssU"
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4"
 }
 },
 {
@@ -81,7 +81,8 @@
 "extensions": {
 "section": "YouTube - SiliconANGLE theCUBE",
 "duration": 545,
-"free": true
+"free": true,
+"start_time": "13:15"
 },
 "content": {
 "type": "video/hls",
