@@ -1,0 +1,99 @@
+{
+    "type": {
+        "value": "feed"
+    },
+    "title": "day 0",
+    "entry": [
+        {
+        "type": {
+            "value": "feed"
+        },
+        "id": 52931,
+        "title": "day 0",
+        "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+                {
+                    "src": null,
+                    "key": "image_base",
+                    "type": "image"
+                }
+                ]
+            }
+        ],
+        "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
+        "link": {
+            "type": "atom",
+            "rel": "self",
+            "href": null
+        },
+        "content": {
+            "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLTIuanNvbg=="
+        }
+    },
+    {
+        "type": {
+            "value": "feed"
+        },
+        "id": 52932,
+        "title": "day 1",
+        "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+                {
+                    "src": null,
+                    "key": "image_base",
+                    "type": "image"
+                }
+                ]
+            }
+        ],
+        "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
+        "link": {
+            "type": "atom",
+            "rel": "self",
+            "href": null
+        },
+        "content": {
+            "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLTIuanNvbg=="
+        }
+    },
+    {
+        "type": {
+            "value": "feed"
+        },
+        "id": 52933,
+        "title": "day 2",
+        "media_group": [
+        {
+            "type": "image",
+            "media_item": [
+            {
+                "src": null,
+                "key": "image_base",
+                "type": "image"
+            }
+            ]
+        }
+        ],
+        "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
+        "link": {
+            "type": "atom",
+            "rel": "self",
+            "href": null
+        },
+        "content": {
+            "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLTIuanNvbg=="
+        }
+    }
+    ],
+    "content": {
+        "src": "applicaster://fetchData?url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLTIuanNvbg==",
+        "type": "atom"
+    },
+    "author": {
+        "name": "applicaster"
+        }
+    }
