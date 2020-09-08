@@ -1,0 +1,99 @@
+{
+"type": {
+    "value": "feed"
+},
+"title": "day 0",
+"entry": [
+    {
+    "type": {
+        "value": "feed"
+    },
+    "id": 52931,
+    "title": "day 0",
+    "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+            {
+                "src": null,
+                "key": "image_base",
+                "type": "image"
+            }
+            ]
+        }
+    ],
+    "screen_type": "dc47aecb-95f4-4db1-be28-b1b57274c976",
+    "link": {
+        "type": "atom",
+        "rel": "self",
+        "href": null
+    },
+    "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLmpzb24="
+    }
+},
+{
+    "type": {
+        "value": "feed"
+    },
+    "id": 52932,
+    "title": "day 1",
+    "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+            {
+                "src": null,
+                "key": "image_base",
+                "type": "image"
+            }
+            ]
+        }
+    ],
+    "screen_type": "1134ee11-a5f5-4094-ad38-641fd9b6ebb9",
+    "link": {
+        "type": "atom",
+        "rel": "self",
+        "href": null
+    },
+    "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLmpzb24="
+    }
+},
+{
+    "type": {
+        "value": "feed"
+    },
+    "id": 52933,
+    "title": "day 2",
+    "media_group": [
+    {
+        "type": "image",
+        "media_item": [
+        {
+            "src": null,
+            "key": "image_base",
+            "type": "image"
+        }
+        ]
+    }
+    ],
+    "screen_type": "dc47aecb-95f4-4db1-be28-b1b57274c976",
+    "link": {
+        "type": "atom",
+        "rel": "self",
+        "href": null
+    },
+    "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtZGF5LXNjaGVkdWxlLmpzb24="
+    }
+}
+],
+"content": {
+    "src": "applicaster://fetchData?url=aHR0cHM6Ly9hc3NldHMtc2VjdXJlLmFwcGxpY2FzdGVyLmNvbS96YXBwL2FjY291bnRzLzVlMTMyYzkwNjY2MzMzMDAwOGMwZjhhYi9hcHBfZmFtaWxpZXMvMTczNC9mZWVkcy81Y2U5ZjQ2Zi1kOTJiLTQ4YWItYTBlYS1mYjQ4ZGQwMjFlMWMuanNvbg%3D%3D&type=manual",
+    "type": "atom"
+},
+"author": {
+    "name": "applicaster"
+    }
+}
