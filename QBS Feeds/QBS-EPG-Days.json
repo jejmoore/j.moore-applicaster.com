@@ -1,211 +1,211 @@
 {
-  "type": {
-    "value": "feed"
-  },
-  "title": "static tabs",
-  "entry": [
-    {
-      "type": {
+    "type": {
         "value": "feed"
-      },
-      "id": 52931,
-      "title": "Today",
-      "media_group": [
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "src": null,
-              "key": "image_base",
-              "type": "image"
-            }
-          ]
-        }
-      ],
-      "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
-      "link": {
-        "type": "atom",
-        "rel": "self",
-        "href": null
-      },
-      "content": {
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9kbC5kcm9wYm94LmNvbS9zL3c0NXRpN2t4dmc4djU2Yy90YWIxX2ZlZWQuanNvbj9kbD0w"
-      }
     },
-    {
-      "type": {
-        "value": "feed"
-      },
-      "id": 52932,
-      "title": "Tomorrow",
-      "media_group": [
+    "title": "static tabs",
+    "entry": [
         {
-          "type": "image",
-          "media_item": [
-            {
-              "src": null,
-              "key": "image_base",
-              "type": "image"
+            "type": {
+                "value": "feed"
+            },
+            "id": 52931,
+            "title": "Today",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                    {
+                        "src": null,
+                        "key": "image_base",
+                        "type": "image"
+                    }
+                    ]
+                }
+            ],
+            "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
+            "link": {
+                "type": "atom",
+                "rel": "self",
+                "href": null
+            },
+            "content": {
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtdGFiMS1mZWVkLmpzb24="
             }
-          ]
-        }
-      ],
-      "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
-      "link": {
-        "type": "atom",
-        "rel": "self",
-        "href": null
-      },
-      "content": {
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9kbC5kcm9wYm94LmNvbS9zL3c0NXRpN2t4dmc4djU2Yy90YWIxX2ZlZWQuanNvbj9kbD0w"
-      }
-    },
-    {
-      "type": {
-        "value": "feed"
-      },
-      "id": 52933,
-      "title": "Wednesday",
-      "media_group": [
+        },
         {
-          "type": "image",
-          "media_item": [
-            {
-              "src": null,
-              "key": "image_base",
-              "type": "image"
+            "type": {
+                "value": "feed"
+            },
+            "id": 52932,
+            "title": "Tomorrow",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                    {
+                        "src": null,
+                        "key": "image_base",
+                        "type": "image"
+                    }
+                    ]
+                }
+            ],
+            "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
+            "link": {
+                "type": "atom",
+                "rel": "self",
+                "href": null
+            },
+            "content": {
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtdGFiMS1mZWVkLmpzb24="
             }
-          ]
-        }
-      ],
-      "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
-      "link": {
-        "type": "atom",
-        "rel": "self",
-        "href": null
-      },
-      "content": {
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9kbC5kcm9wYm94LmNvbS9zL3c0NXRpN2t4dmc4djU2Yy90YWIxX2ZlZWQuanNvbj9kbD0w"
-      }
-    },
-    {
-      "type": {
-        "value": "feed"
-      },
-      "id": 52934,
-      "title": "Thursday",
-      "media_group": [
+        },
         {
-          "type": "image",
-          "media_item": [
-            {
-              "src": null,
-              "key": "image_base",
-              "type": "image"
+            "type": {
+                "value": "feed"
+            },
+            "id": 52933,
+            "title": "Wednesday",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                    {
+                        "src": null,
+                        "key": "image_base",
+                        "type": "image"
+                    }
+                    ]
+                }
+            ],
+            "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
+            "link": {
+                "type": "atom",
+                "rel": "self",
+                "href": null
+            },
+            "content": {
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtdGFiMS1mZWVkLmpzb24="
             }
-          ]
-        }
-      ],
-      "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
-      "link": {
-        "type": "atom",
-        "rel": "self",
-        "href": null
-      },
-      "content": {
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9kbC5kcm9wYm94LmNvbS9zL3c0NXRpN2t4dmc4djU2Yy90YWIxX2ZlZWQuanNvbj9kbD0w"
-      }
-    },
-    {
-      "type": {
-        "value": "feed"
-      },
-      "id": 52935,
-      "title": "Friday",
-      "media_group": [
+        },
         {
-          "type": "image",
-          "media_item": [
-            {
-              "src": null,
-              "key": "image_base",
-              "type": "image"
+            "type": {
+                "value": "feed"
+            },
+            "id": 52934,
+            "title": "Thursday",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                    {
+                        "src": null,
+                        "key": "image_base",
+                        "type": "image"
+                    }
+                    ]
+                }
+            ],
+            "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
+            "link": {
+                "type": "atom",
+                "rel": "self",
+                "href": null
+            },
+            "content": {
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtdGFiMS1mZWVkLmpzb24="
             }
-          ]
-        }
-      ],
-      "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
-      "link": {
-        "type": "atom",
-        "rel": "self",
-        "href": null
-      },
-      "content": {
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9kbC5kcm9wYm94LmNvbS9zL3c0NXRpN2t4dmc4djU2Yy90YWIxX2ZlZWQuanNvbj9kbD0w"
-      }
-    },
-    {
-      "type": {
-        "value": "feed"
-      },
-      "id": 52936,
-      "title": "Saturday",
-      "media_group": [
+        },
         {
-          "type": "image",
-          "media_item": [
-            {
-              "src": null,
-              "key": "image_base",
-              "type": "image"
+            "type": {
+                "value": "feed"
+            },
+            "id": 52935,
+            "title": "Friday",
+            "media_group": [
+                {
+                "type": "image",
+                "media_item": [
+                    {
+                        "src": null,
+                        "key": "image_base",
+                        "type": "image"
+                    }
+                    ]
+                }
+            ],
+            "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
+            "link": {
+                "type": "atom",
+                "rel": "self",
+                "href": null
+            },
+            "content": {
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtdGFiMS1mZWVkLmpzb24="
             }
-          ]
-        }
-      ],
-      "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
-      "link": {
-        "type": "atom",
-        "rel": "self",
-        "href": null
-      },
-      "content": {
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9kbC5kcm9wYm94LmNvbS9zL3c0NXRpN2t4dmc4djU2Yy90YWIxX2ZlZWQuanNvbj9kbD0w"
-      }
-    },
-    {
-      "type": {
-        "value": "feed"
-      },
-      "id": 5293,
-      "title": "Sunday",
-      "media_group": [
+        },
         {
-          "type": "image",
-          "media_item": [
-            {
-              "src": null,
-              "key": "image_base",
-              "type": "image"
+            "type": {
+                "value": "feed"
+            },
+            "id": 52936,
+            "title": "Saturday",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                    {
+                        "src": null,
+                        "key": "image_base",
+                        "type": "image"
+                    }
+                    ]
+                }
+            ],
+            "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
+            "link": {
+                "type": "atom",
+                "rel": "self",
+                "href": null
+            },
+            "content": {
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtdGFiMS1mZWVkLmpzb24="
             }
-          ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": 5293,
+            "title": "Sunday",
+            "media_group": [
+                {
+                "type": "image",
+                "media_item": [
+                    {
+                        "src": null,
+                        "key": "image_base",
+                        "type": "image"
+                    }
+                    ]
+                }
+            ],
+            "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
+            "link": {
+                "type": "atom",
+                "rel": "self",
+                "href": null
+            },
+            "content": {
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2plam1vb3JlL2oubW9vcmUtYXBwbGljYXN0ZXIuY29tL21hc3Rlci9RQlMlMjBGZWVkcy9RQlMtdGFiMS1mZWVkLmpzb24="
+            }
         }
-      ],
-      "screen_type": "b099bc7e-be68-4430-83a6-ec5ea2ba80fd",
-      "link": {
-        "type": "atom",
-        "rel": "self",
-        "href": null
-      },
-      "content": {
-        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9kbC5kcm9wYm94LmNvbS9zL3c0NXRpN2t4dmc4djU2Yy90YWIxX2ZlZWQuanNvbj9kbD0w"
-      }
-    }
-  ],
-  "content": {
+    ],
+"content": {
     "src": "applicaster://fetchData?url=aHR0cHM6Ly9hc3NldHMtc2VjdXJlLmFwcGxpY2FzdGVyLmNvbS96YXBwL2FjY291bnRzLzVlMTMyYzkwNjY2MzMzMDAwOGMwZjhhYi9hcHBfZmFtaWxpZXMvMTczNC9mZWVkcy81Y2U5ZjQ2Zi1kOTJiLTQ4YWItYTBlYS1mYjQ4ZGQwMjFlMWMuanNvbg%3D%3D&type=manual",
     "type": "atom"
-  },
-  "author": {
+},
+"author": {
     "name": "applicaster"
-  }
+    }
 }
