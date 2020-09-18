@@ -1,428 +1,428 @@
 {
-"id": "123456789",
-"type": {
-"value": "feed"
-},
-"entry": [
-{
-"id": "12345678901",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "Treadstone",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "S5 E1: Event Horizon",
-"updated": "2019-11-15T10:41:03+00:00",
-"published": "2019-11-15T10:31:00+00:00",
-"extensions": {
-"free": true,
-"section": "ACTION & ADVENTURE",
-"duration": 9863
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49520869608_19d5b16503_o.jpg",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "12345678902",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/90282-the-morning-show?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "program"
-},
-"title": "The Walking Dead",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "Episode 2",
-"updated": "2019-11-15T10:36:04+00:00",
-"published": "2019-11-15T10:24:00+00:00",
-"extensions": {
-"free": true,
-"section": "ACTION",
-"duration": 60
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49521393786_23405818ea_o.jpg",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "12345678903",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/79788-watchmen?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "feed"
-},
-"title": "Better Call Saul",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "S1 E1: It's Summer and We're Running Out of Ice",
-"updated": "2019-11-15T10:26:55+00:00",
-"published": "2019-11-15T10:19:00+00:00",
-"extensions": {
-"free": false,
-"section": "DRAMA",
-"duration": 331
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49521605602_7e9e565aea_o.jpg",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "12345678904",
-"link": {},
-"type": {
-"value": "article"
-},
-"title": "The Good Place",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "S2 E1: Journey Into Night",
-"updated": "2019-11-15T10:23:37+00:00",
-"published": "2019-11-15T10:00:15+00:00",
-"extensions": {
-"free": true,
-"section": "COMEDY",
-"duration": 50
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49520869758_f547031f90_o.jpg",
-"type": "image"
-}
-]
-}
-]
-},
-{
-"id": "12345678905",
-"link": {
-"rel": "alternate",
-"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
-"type": "text/html"
-},
-"type": {
-"value": "link"
-},
-"title": "The Flash",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "S5 E1: Striking Vipers",
-"updated": "2019-11-15T10:01:03+00:00",
-"published": "2019-11-15T09:54:00+00:00",
-"extensions": {
-"free": true,
-"section": "ACTION & ADVENTURE",
-"duration": 55
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49520869628_6a0b99cccc_o.jpg",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "12345678906",
-"link": {},
-"type": {
-"value": "video"
-},
-"title": "iZombie",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "S1 E6: Sources and Methods",
-"updated": "2019-11-15T10:16:45+00:00",
-"published": "2019-11-15T09:44:00+00:00",
-"extensions": {
-"free": false,
-"section": "COMEDY",
-"duration": 763
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49521393931_d65598fc57_o.jpg",
-"type": "image"
-}
-]
-}
-]
-},
-{
-"id": "12345678907",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "Black Lightning",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "S5 E1: Event Horizon",
-"updated": "2019-11-15T10:41:03+00:00",
-"published": "2019-11-15T10:31:00+00:00",
-"extensions": {
-"free": true,
-"section": "DRAMA",
-"duration": 9863
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49520869788_16479d042b_o.jpg",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "12345678908",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/90282-the-morning-show?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "MR Robot",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "Episode 2",
-"updated": "2019-11-15T10:36:04+00:00",
-"published": "2019-11-15T10:24:00+00:00",
-"extensions": {
-"free": true,
-"section": "DRAMA",
-"duration": 60
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49521605452_e3f4001b98_o.jpg",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "12345678909",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/79788-watchmen?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "Peaky Blinders",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "S1 E1: It's Summer and We're Running Out of Ice",
-"updated": "2019-11-15T10:26:55+00:00",
-"published": "2019-11-15T10:19:00+00:00",
-"extensions": {
-"free": false,
-"section": "DRAMA",
-"duration": 331
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49521393891_e10a8a8ed5_o.jpg",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "12345678910",
-"link": {},
-"type": {
-"value": "video"
-},
-"title": "Gordon Ramsays 24 Hrs To Hell And Back",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "S2 E1: Journey Into Night",
-"updated": "2019-11-15T10:23:37+00:00",
-"published": "2019-11-15T10:00:15+00:00",
-"extensions": {
-"free": true,
-"section": "FAMILY",
-"duration": 50
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49521605507_b9d3d582b7_o.jpg",
-"type": "image"
-}
-]
-}
-]
-},
-{
-"id": "12345678911",
-"link": {
-"rel": "alternate",
-"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "America's Got Talent",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "S5 E1: Striking Vipers",
-"updated": "2019-11-15T10:01:03+00:00",
-"published": "2019-11-15T09:54:00+00:00",
-"extensions": {
-"free": true,
-"section": "FAMILY",
-"duration": 55
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49520869853_a8e1a2c10e_o.jpg",
-"type": "extern_image"
-}
-]
-}
-]
-}
-],
-"title": "Testing feed",
-"content": {},
-"screen_type": ""
+  "id": "123456789",
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "12345678901",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "Treadstone",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "S5 E1: Event Horizon",
+      "updated": "2019-11-15T10:41:03+00:00",
+      "published": "2019-11-15T10:31:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "ACTION & ADVENTURE",
+        "duration": 9863
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49520869608_19d5b16503_o.jpg",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12345678902",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/90282-the-morning-show?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "program"
+      },
+      "title": "The Walking Dead",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "Episode 2",
+      "updated": "2019-11-15T10:36:04+00:00",
+      "published": "2019-11-15T10:24:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "ACTION",
+        "duration": 60
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49521393786_23405818ea_o.jpg",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12345678903",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/79788-watchmen?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "feed"
+      },
+      "title": "Better Call Saul",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "S1 E1: It's Summer and We're Running Out of Ice",
+      "updated": "2019-11-15T10:26:55+00:00",
+      "published": "2019-11-15T10:19:00+00:00",
+      "extensions": {
+        "free": false,
+        "section": "DRAMA",
+        "duration": 331
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49521605602_7e9e565aea_o.jpg",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12345678904",
+      "link": {},
+      "type": {
+        "value": "article"
+      },
+      "title": "The Good Place",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "S2 E1: Journey Into Night",
+      "updated": "2019-11-15T10:23:37+00:00",
+      "published": "2019-11-15T10:00:15+00:00",
+      "extensions": {
+        "free": true,
+        "section": "COMEDY",
+        "duration": 50
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49520869758_f547031f90_o.jpg",
+              "type": "image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12345678905",
+      "link": {
+        "rel": "alternate",
+        "href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "link"
+      },
+      "title": "The Flash",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "S5 E1: Striking Vipers",
+      "updated": "2019-11-15T10:01:03+00:00",
+      "published": "2019-11-15T09:54:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "ACTION & ADVENTURE",
+        "duration": 55
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49520869628_6a0b99cccc_o.jpg",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12345678906",
+      "link": {},
+      "type": {
+        "value": "video"
+      },
+      "title": "iZombie",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "S1 E6: Sources and Methods",
+      "updated": "2019-11-15T10:16:45+00:00",
+      "published": "2019-11-15T09:44:00+00:00",
+      "extensions": {
+        "free": false,
+        "section": "COMEDY",
+        "duration": 763
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49521393931_d65598fc57_o.jpg",
+              "type": "image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12345678907",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "Black Lightning",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "S5 E1: Event Horizon",
+      "updated": "2019-11-15T10:41:03+00:00",
+      "published": "2019-11-15T10:31:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "DRAMA",
+        "duration": 9863
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49520869788_16479d042b_o.jpg",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12345678908",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/90282-the-morning-show?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "MR Robot",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "Episode 2",
+      "updated": "2019-11-15T10:36:04+00:00",
+      "published": "2019-11-15T10:24:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "DRAMA",
+        "duration": 60
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49521605452_e3f4001b98_o.jpg",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12345678909",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/79788-watchmen?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "Peaky Blinders",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "S1 E1: It's Summer and We're Running Out of Ice",
+      "updated": "2019-11-15T10:26:55+00:00",
+      "published": "2019-11-15T10:19:00+00:00",
+      "extensions": {
+        "free": false,
+        "section": "DRAMA",
+        "duration": 331
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49521393891_e10a8a8ed5_o.jpg",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12345678910",
+      "link": {},
+      "type": {
+        "value": "video"
+      },
+      "title": "Gordon Ramsays 24 Hrs To Hell And Back",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "S2 E1: Journey Into Night",
+      "updated": "2019-11-15T10:23:37+00:00",
+      "published": "2019-11-15T10:00:15+00:00",
+      "extensions": {
+        "free": true,
+        "section": "FAMILY",
+        "duration": 50
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49521605507_b9d3d582b7_o.jpg",
+              "type": "image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12345678911",
+      "link": {
+        "rel": "alternate",
+        "href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "America's Got Talent",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "S5 E1: Striking Vipers",
+      "updated": "2019-11-15T10:01:03+00:00",
+      "published": "2019-11-15T09:54:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "FAMILY",
+        "duration": 55
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49520869853_a8e1a2c10e_o.jpg",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Testing feed",
+  "content": {},
+  "screen_type": ""
 }
