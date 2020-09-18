@@ -1,50 +1,50 @@
 {
-"id": "912345678",
-"type": {
-"value": "feed"
-},
-"entry": [
-{
-"id": "91234567801",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "Star Wars: Rise Of The Skywalker",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "Action & Adventure  ·  125 Mins",
-"updated": "2019-11-15T10:41:03+00:00",
-"published": "2019-11-15T10:31:00+00:00",
-"extensions": {
-"free": true,
-"section": "JUST ADDED",
-"duration": 9863
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://live.staticflickr.com/65535/49639202771_f37e34fa7d_o.png",
-"type": "extern_image"
-}
-]
-}
-]
-}
-],
-"title": "Testing feed",
-"content": {},
-"screen_type": ""
+  "id": "912345678",
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "91234567801",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "Star Wars: Rise Of The Skywalker",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "Action & Adventure  ·  125 Mins",
+      "updated": "2019-11-15T10:41:03+00:00",
+      "published": "2019-11-15T10:31:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "JUST ADDED",
+        "duration": 9863
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://live.staticflickr.com/65535/49639202771_f37e34fa7d_o.png",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Testing feed",
+  "content": {},
+  "screen_type": ""
 }

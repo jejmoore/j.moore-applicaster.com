@@ -1,245 +1,245 @@
 {
-"id": "2223456789",
-"type": {
-"value": "feed"
-},
-"entry": [
-{
-"id": "222345678901",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "Action & Adventure",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "",
-"updated": "2019-11-15T10:41:03+00:00",
-"published": "2019-11-15T10:31:00+00:00",
-"extensions": {
-"free": true,
-"section": "March 15, 2020",
-"duration": 9863
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Action-Adventure.png",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "222345678902",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "Comedy",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "",
-"updated": "2019-11-15T10:41:03+00:00",
-"published": "2019-11-15T10:31:00+00:00",
-"extensions": {
-"free": true,
-"section": "March 22, 2020",
-"duration": 9863
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Comedy.png",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "222345678903",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "Horror",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "",
-"updated": "2019-11-15T10:41:03+00:00",
-"published": "2019-11-15T10:31:00+00:00",
-"extensions": {
-"free": true,
-"section": "March 22, 2020",
-"duration": 9863
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Horror.png",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "222345678904",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "Sports",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "",
-"updated": "2019-11-15T10:41:03+00:00",
-"published": "2019-11-15T10:31:00+00:00",
-"extensions": {
-"free": true,
-"section": "March 22, 2020",
-"duration": 9863
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Sports.png",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "222345678905",
-"link": {
-"rel": "alternate",
-"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "Factual",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "",
-"updated": "2019-11-15T10:41:03+00:00",
-"published": "2019-11-15T10:31:00+00:00",
-"extensions": {
-"free": true,
-"section": "March 22, 2020",
-"duration": 9863
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Factual.png",
-"type": "extern_image"
-}
-]
-}
-]
-},
-{
-"id": "112345678906",
-"link": {
-"rel": "alternate",
-"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
-"type": "text/html"
-},
-"type": {
-"value": "video"
-},
-"title": "Sci-Fi",
-"author": {
-"name": ""
-},
-"content": {
-"src": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-"type": "video/hls"
-},
-"summary": "",
-"updated": "2019-11-15T10:01:03+00:00",
-"published": "2019-11-15T09:54:00+00:00",
-"extensions": {
-"free": true,
-"section": "March 29, 2020",
-"duration": 55
-},
-"media_group": [
-{
-"type": "image",
-"media_item": [
-{
-"key": "image_base",
-"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/SciFi.png",
-"type": "extern_image"
-}
-]
-}
-]
-}
-],
-"title": "Testing feed",
-"content": {},
-"screen_type": ""
+  "id": "2223456789",
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "222345678901",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "Action & Adventure",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "",
+      "updated": "2019-11-15T10:41:03+00:00",
+      "published": "2019-11-15T10:31:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "March 15, 2020",
+        "duration": 9863
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Action-Adventure.png",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "222345678902",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "Comedy",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "",
+      "updated": "2019-11-15T10:41:03+00:00",
+      "published": "2019-11-15T10:31:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "March 22, 2020",
+        "duration": 9863
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Comedy.png",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "222345678903",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "Horror",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "",
+      "updated": "2019-11-15T10:41:03+00:00",
+      "published": "2019-11-15T10:31:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "March 22, 2020",
+        "duration": 9863
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Horror.png",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "222345678904",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "Sports",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "",
+      "updated": "2019-11-15T10:41:03+00:00",
+      "published": "2019-11-15T10:31:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "March 22, 2020",
+        "duration": 9863
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Sports.png",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "222345678905",
+      "link": {
+        "rel": "alternate",
+        "href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "Factual",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "",
+      "updated": "2019-11-15T10:41:03+00:00",
+      "published": "2019-11-15T10:31:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "March 22, 2020",
+        "duration": 9863
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/Factual.png",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "112345678906",
+      "link": {
+        "rel": "alternate",
+        "href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+        "type": "text/html"
+      },
+      "type": {
+        "value": "video"
+      },
+      "title": "Sci-Fi",
+      "author": {
+        "name": ""
+      },
+      "content": {
+        "src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+        "type": "video/hls"
+      },
+      "summary": "",
+      "updated": "2019-11-15T10:01:03+00:00",
+      "published": "2019-11-15T09:54:00+00:00",
+      "extensions": {
+        "free": true,
+        "section": "March 29, 2020",
+        "duration": 55
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Categories/SciFi.png",
+              "type": "extern_image"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Testing feed",
+  "content": {},
+  "screen_type": ""
 }
