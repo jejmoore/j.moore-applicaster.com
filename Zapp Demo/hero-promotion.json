@@ -1,0 +1,37 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Zapp-Demo-1",
+    "title": "Hero Promotion",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "PR01",
+        "title": "The Mandalorian",
+        "summary": "New! Watch Seaon 2 of this addictive Star Wars spin off.",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Zapp%20Demo/Hero/mandalorian.png",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        }
+    ]
+}
