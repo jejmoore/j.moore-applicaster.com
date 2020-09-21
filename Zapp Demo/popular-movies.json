@@ -1,0 +1,518 @@
+{
+"id": "891234567",
+"type": {
+"value": "feed"
+},
+"entry": [
+{
+"id": "89123456704",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "John Wick: Chapter 3 Parabellum",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Action  ·  130 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625677928_08feae63c8_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456706",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "El Camino",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Drama  ·  140 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626471497_4359fc4749_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456705",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "The Irishman",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Drama  ·  205 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626471652_83744f7c2c_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456701",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Action  ·  149 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626471457_852ea340f5_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456702",
+"link": {
+"rel": "alternate",
+"href": "http://www.ran.de/esports/virtual-bundesliga/video/vbl-magazin-der-spieltag-die-komplette-sendung-ganze-folge",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Star Wars: The Rise Of Skywalker",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "SCI-FI  ·  124 Mins",
+"updated": "2019-11-15T10:01:03+00:00",
+"published": "2019-11-15T09:54:00+00:00",
+"extensions": {
+"free": true,
+"section": "TRENDING",
+"duration": 55
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626471537_ec792c3088_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456703",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Frozen 2",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Family  ·  110 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626196976_8c19d9a992_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456707",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Jumanji: The Next Level",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Family  ·  140 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625677658_abb72f0f0b_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456708",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Spiderman: Far From Home",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Family  ·  140 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626197171_acc5fc7c6c_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456709",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Maleficent: Mistress Of Evil",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Family  ·  140 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625677483_5f6cd877c2_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456710",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Captain Marvel",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Action  ·  140 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626197141_0b83de1e27_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456711",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "The Addams Family",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Family  ·  140 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49626471242_680f40a183_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456712",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "6 Underground",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Action  ·  140 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625677598_7d190472ac_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+},
+{
+"id": "89123456713",
+"link": {
+"rel": "alternate",
+"href": "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+"type": "text/html"
+},
+"type": {
+"value": "video"
+},
+"title": "Alita: Battle Angel",
+"author": {
+"name": ""
+},
+"content": {
+"src": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+"type": "video/hls"
+},
+"summary": "Action  ·  140 Mins",
+"updated": "2019-11-15T10:41:03+00:00",
+"published": "2019-11-15T10:31:00+00:00",
+"extensions": {
+"free": true,
+"section": "JUST ADDED",
+"duration": 9863
+},
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_base",
+"src": "https://live.staticflickr.com/65535/49625677693_fb6465a722_o.jpg",
+"type": "extern_image"
+}
+]
+}
+]
+}
+],
+"title": "Popular Movies",
+"content": {},
+"screen_type": ""
+}
