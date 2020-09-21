@@ -1,0 +1,162 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Zapp-Demo-2",
+    "title": "Live Channels",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "CH01",
+        "title": "BBC One",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_16.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "CH02",
+        "title": "Itv",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_14.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "CH03",
+        "title": "Five",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_13.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "CH04",
+        "title": "Four",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_2.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "CH05",
+        "title": "CItv",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_8.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "CH06",
+        "title": "Itv Be",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_8.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        }
+    ]
+}
