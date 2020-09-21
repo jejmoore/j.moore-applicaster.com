@@ -31,7 +31,9 @@
         ]
         }
         ],
-        "extensions": {}
+        "extensions": {
+            "section" : "Just Added"
+        }
         }
     ]
 }
