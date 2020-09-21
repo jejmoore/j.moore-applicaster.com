@@ -25,7 +25,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_16.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Zapp%20Demo/Channels/BBC1.png",
             "type": "extern_image"
         }
         ]
@@ -50,7 +50,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_14.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Zapp%20Demo/Channels/ITV.png",
             "type": "extern_image"
         }
         ]
@@ -75,7 +75,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_13.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Zapp%20Demo/Channels/Five.png",
             "type": "extern_image"
         }
         ]
@@ -100,7 +100,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_2.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Zapp%20Demo/Channels/Four.png",
             "type": "extern_image"
         }
         ]
@@ -125,7 +125,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_8.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Zapp%20Demo/Channels/CITV.png",
             "type": "extern_image"
         }
         ]
@@ -150,7 +150,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20Default%20Themes/Content%20Images/image_8.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Zapp%20Demo/Channels/ITVBE.png",
             "type": "extern_image"
         }
         ]
