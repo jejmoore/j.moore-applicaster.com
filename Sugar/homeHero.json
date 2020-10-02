@@ -1,0 +1,40 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Sugar-Hero-1",
+    "title": "",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "S01",
+        "title": "Beauty tips for battling 2020",
+        "summary": "Content title to go here over a few lines. Content title to go here over a few lines",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Zapp%20Demo/Hero/mandalorian.png",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty.",
+            "button" : "View All"
+        }
+        }
+    ]
+}
