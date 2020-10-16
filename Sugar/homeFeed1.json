@@ -1,0 +1,39 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Sugar-HomeFeed-1",
+    "title": "",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "S01",
+        "title": "Under $50 Holiday Kitchen Gifts That Moms Will Adore",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/hero/photo-1491147334573-44cbb4602074-1.webp",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Lifestyle"
+        }
+        }
+    ]
+}
