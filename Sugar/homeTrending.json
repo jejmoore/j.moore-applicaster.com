@@ -14,6 +14,16 @@
           "type" : "extern_image"
           }
         ]
+      },
+      {
+        "type" : "image",
+        "media_item" : [
+          {
+          "key" : "image_footer",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Footers/trendingBottom.png",
+          "type" : "extern_image"
+          }
+        ]
       }
     ],
     "type": {
