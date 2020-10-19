@@ -4,6 +4,18 @@
     },
     "id": "Sugar-HomeTrending",
     "title": "Trending Now",
+    "media_group": [
+      {
+        "type" : "image",
+        "media_item" : [
+          {
+          "key" : "image_hero",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Headers/TrendingHeader.png",
+          "type" : "extern_image"
+          }
+        ]
+      }
+    ],
     "type": {
     "value": "feed"
     },
