@@ -1,0 +1,35 @@
+{
+"author": {
+"name": "Applicaster"
+},
+"id": "Sugar-Favourites",
+"title": "My Favourites",
+"media_group": [
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_hero",
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Headers/FavouritesHeader.png",
+"type": "extern_image"
+}
+]
+},
+{
+"type": "image",
+"media_item": [
+{
+"key": "image_footer",
+"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Footers/FavouritesBottom.png",
+"type": "extern_image"
+}
+]
+}
+],
+"type": {
+"value": "feed"
+},
+"entry": [
+
+]
+}
