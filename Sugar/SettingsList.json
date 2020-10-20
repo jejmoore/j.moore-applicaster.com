@@ -1,0 +1,81 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Sugar-Settings",
+    "title": "Settings",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "Setting01",
+        "title": "Privacy",
+        "content": {
+            "src": "",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Settings%20Icons/PrivacyIcon.png",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ]
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "Setting02",
+        "title": "Terms & Conditions",
+        "content": {
+            "src": "",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Settings%20Icons/TermsIcon.png",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ]
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "Setting03",
+        "title": "App Settings",
+        "content": {
+            "src": "",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Settings%20Icons/SettingsIcon.png",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ]
+        }
+    ]
+}
