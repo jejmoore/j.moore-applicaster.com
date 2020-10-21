@@ -32,7 +32,8 @@
             }
             ],
             "extensions": {
-                "category" : "Lifestyle"
+                "category" : "Fitness",
+                "cta" : "Trending"
             }
         },
         {
@@ -40,7 +41,7 @@
             "value": "video"
         },
         "id": "F02",
-        "title": "How to stop your lipstick from smudging under your face mask",
+        "title": "Why Tabata is the best workout for busy days",
         "summary": "2 hours ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -59,7 +60,7 @@
         }
         ],
         "extensions": {
-            "category" : "Lifestyle",
+            "category" : "Fitness",
             "cta" : "Trending"
         }
         },
@@ -68,7 +69,7 @@
             "value": "video"
         },
         "id": "F03",
-        "title": "How to take care of your houseplants during a heatwave",
+        "title": "Here’s how to perfect your form if you're not used to strength training",
         "summary": "2 days ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -87,7 +88,7 @@
         }
         ],
         "extensions": {
-            "category" : "Lifestyle",
+            "category" : "Fitness",
             "cta" : "Trending"
         }
         },
@@ -96,7 +97,7 @@
             "value": "video"
         },
         "id": "F04",
-        "title": "Everything you need to know about practising gratitude, according to an expert",
+        "title": "How mindful breathing can actually help your run",
         "summary": "2 days ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -115,7 +116,7 @@
         }
         ],
         "extensions": {
-            "category" : "Lifestyle",
+            "category" : "Fitness",
             "cta" : "Trending"
         }
         },
@@ -124,7 +125,7 @@
             "value": "video"
         },
         "id": "F05",
-        "title": "How to stop your perfectionism from controlling your life",
+        "title": "The best running kit to see you through the colder weather",
         "summary": "2 days ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -136,14 +137,14 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/perfect.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/gear.jpg",
             "type": "extern_image"
         }
         ]
         }
         ],
         "extensions": {
-            "category" : "Lifestyle",
+            "category" : "Fitness",
             "cta" : "Trending"
         }
         },
@@ -152,7 +153,7 @@
                 "value": "video"
             },
             "id": "F06",
-            "title": "This is how Black women in the UK are really feeling",
+            "title": "This is the best time of the day to exercise, according to fitness trainers",
             "summary": "2 days ago",
             "content": {
                 "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -171,8 +172,8 @@
             }
             ],
             "extensions": {
-                "category" : "Lifestyle",
-                "cta" : "Trending"
+                "category" : "Fitness",
+            "cta" : "Trending"
             }
         },
         {
@@ -180,7 +181,7 @@
                 "value": "video"
             },
             "id": "F07",
-            "title": "Ciara shares the news of her baby in the most iconic way",
+            "title": "High-waisted gym leggings that will actually stay up during your workouts",
             "summary": "2 days ago",
             "content": {
                 "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -192,15 +193,15 @@
             "media_item": [
             {
                 "key": "image_base",
-                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/ciara.jpg",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/leggings.jpg",
                 "type": "extern_image"
             }
             ]
             }
             ],
             "extensions": {
-                "category" : "Lifestyle",
-                "cta" : "Trending"
+                "category" : "Fitness",
+            "cta" : "Trending"
             }
         },
         {
@@ -208,7 +209,7 @@
             "value": "video"
         },
         "id": "F08",
-        "title": "This is how often we should be working out, according to fitness experts",
+        "title": "Can weight training be a form of cardio?",
         "summary": "2 days ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -220,14 +221,14 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/lipstick.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/kettle.jpg",
             "type": "extern_image"
         }
         ]
         }
         ],
         "extensions": {
-            "category" : "Lifestyle",
+            "category" : "Fitness",
             "cta" : "Trending"
         }
         },
@@ -236,7 +237,7 @@
             "value": "video"
         },
         "id": "F09",
-        "title": "The physical symptoms of burnout to keep an eye out for while WFH",
+        "title": "What are compound exercises and why are they important?",
         "summary": "2 days ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -248,14 +249,14 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/burnout.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/compound.jpg",
             "type": "extern_image"
         }
         ]
         }
         ],
         "extensions": {
-            "category" : "Lifestyle",
+            "category" : "Fitness",
             "cta" : "Trending"
         }
         },
@@ -264,7 +265,7 @@
             "value": "video"
         },
         "id": "F10",
-        "title": "These fibre-filled banana muffins benefit more than your gut",
+        "title": "9 ways to motivate yourself to work out when it’s cold outside",
         "summary": "2 days ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -276,14 +277,14 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/muffin.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/yoga.jpg",
             "type": "extern_image"
         }
         ]
         }
         ],
         "extensions": {
-            "category" : "Lifestyle",
+            "category" : "Fitness",
             "cta" : "Trending"
         }
         }        
