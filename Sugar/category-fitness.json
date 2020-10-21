@@ -1,0 +1,291 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Sugar-Category-Fitness",
+    "title": "Latest",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "F01",
+            "title": "Why intense or excessive running isn’t always good for you",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },        
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/run.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Lifestyle"
+            }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "F02",
+        "title": "How to stop your lipstick from smudging under your face mask",
+        "summary": "2 hours ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/tabata.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Lifestyle",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "F03",
+        "title": "How to take care of your houseplants during a heatwave",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/hiit.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Lifestyle",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "F04",
+        "title": "Everything you need to know about practising gratitude, according to an expert",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/exercise.jpeg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Lifestyle",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "F05",
+        "title": "How to stop your perfectionism from controlling your life",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/perfect.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Lifestyle",
+            "cta" : "Trending"
+        }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "F06",
+            "title": "This is how Black women in the UK are really feeling",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },        
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/obesity.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Lifestyle",
+                "cta" : "Trending"
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "F07",
+            "title": "Ciara shares the news of her baby in the most iconic way",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },        
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/ciara.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Lifestyle",
+                "cta" : "Trending"
+            }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "F08",
+        "title": "This is how often we should be working out, according to fitness experts",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/lipstick.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Lifestyle",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "F09",
+        "title": "The physical symptoms of burnout to keep an eye out for while WFH",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/burnout.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Lifestyle",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "F10",
+        "title": "These fibre-filled banana muffins benefit more than your gut",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/muffin.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Lifestyle",
+            "cta" : "Trending"
+        }
+        }        
+    ]
+}
