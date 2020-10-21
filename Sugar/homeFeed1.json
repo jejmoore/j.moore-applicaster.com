@@ -12,9 +12,9 @@
         "type": {
             "value": "video"
         },
-        "id": "S01",
-        "title": "Under $50 Holiday Kitchen Gifts That Moms Will Adore",
-        "summary": "2 days ago",
+        "id": "S02",
+        "title": "How to stop your lipstick from smudging under your face mask",
+        "summary": "2 hours ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
             "type": "video/hls"
@@ -25,7 +25,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/hero/photo-1491147334573-44cbb4602074-1.webp",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/lipstick.jpg",
             "type": "extern_image"
         }
         ]
