@@ -9,6 +9,33 @@
     },
     "entry": [
         {
+            "type": {
+                "value": "video"
+            },
+            "id": "L02",
+            "title": "Careers advice: top telling women to talk like men – ask men to talk more like women",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },        
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/therapy.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Lifestyle"
+            }
+        },
+        {
         "type": {
             "value": "video"
         },
@@ -34,33 +61,6 @@
         "extensions": {
             "category" : "Lifestyle",
             "cta" : "Trending"
-        }
-        },
-        {
-        "type": {
-            "value": "video"
-        },
-        "id": "L02",
-        "title": "Careers advice: top telling women to talk like men – ask men to talk more like women",
-        "summary": "2 days ago",
-        "content": {
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-            "type": "video/hls"
-        },        
-        "media_group": [
-        {
-        "type": "image",
-        "media_item": [
-        {
-            "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/therapy.jpg",
-            "type": "extern_image"
-        }
-        ]
-        }
-        ],
-        "extensions": {
-            "category" : "Lifestyle"
         }
         },
         {
@@ -148,6 +148,62 @@
         }
         },
         {
+            "type": {
+                "value": "video"
+            },
+            "id": "L07",
+            "title": "This is how Black women in the UK are really feeling",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },        
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/trio.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Lifestyle",
+                "cta" : "Trending"
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "L10",
+            "title": "Ciara shares the news of her baby in the most iconic way",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },        
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/ciara.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Lifestyle",
+                "cta" : "Trending"
+            }
+        },
+        {
         "type": {
             "value": "video"
         },
@@ -165,34 +221,6 @@
         {
             "key": "image_base",
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/lipstick.jpg",
-            "type": "extern_image"
-        }
-        ]
-        }
-        ],
-        "extensions": {
-            "category" : "Lifestyle",
-            "cta" : "Trending"
-        }
-        },
-        {
-        "type": {
-            "value": "video"
-        },
-        "id": "L07",
-        "title": "This is how Black women in the UK are really feeling",
-        "summary": "2 days ago",
-        "content": {
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-            "type": "video/hls"
-        },        
-        "media_group": [
-        {
-        "type": "image",
-        "media_item": [
-        {
-            "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/trio.jpg",
             "type": "extern_image"
         }
         ]
@@ -258,35 +286,6 @@
             "category" : "Lifestyle",
             "cta" : "Trending"
         }
-        },
-        {
-        "type": {
-            "value": "video"
-        },
-        "id": "L10",
-        "title": "Ciara shares the news of her baby in the most iconic way",
-        "summary": "2 days ago",
-        "content": {
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-            "type": "video/hls"
-        },        
-        "media_group": [
-        {
-        "type": "image",
-        "media_item": [
-        {
-            "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/ciara.jpg",
-            "type": "extern_image"
-        }
-        ]
-        }
-        ],
-        "extensions": {
-            "category" : "Lifestyle",
-            "cta" : "Trending"
-        }
-        }
-        
+        }        
     ]
 }
