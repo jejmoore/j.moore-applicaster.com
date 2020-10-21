@@ -53,7 +53,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/hero/photo-1491147334573-44cbb4602074-1.webp",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/therapy.jpg",
             "type": "extern_image"
         }
         ]
@@ -80,7 +80,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/hero/photo-1491147334573-44cbb4602074-1.webp",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/plants.jpg",
             "type": "extern_image"
         }
         ]
@@ -108,7 +108,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/hero/photo-1491147334573-44cbb4602074-1.webp",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/hair.jpg",
             "type": "extern_image"
         }
         ]
@@ -136,7 +136,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/hero/photo-1491147334573-44cbb4602074-1.webp",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/perfect.jpg",
             "type": "extern_image"
         }
         ]
@@ -192,7 +192,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/lipstick.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/trio.jpg",
             "type": "extern_image"
         }
         ]
@@ -220,7 +220,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/lipstick.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/burnout.jpg",
             "type": "extern_image"
         }
         ]
@@ -248,7 +248,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/lipstick.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/muffin.jpg",
             "type": "extern_image"
         }
         ]
@@ -264,7 +264,7 @@
             "value": "video"
         },
         "id": "L10",
-        "title": "Ciara shares the news of her baby in the most iconic way, and completely on her own terms",
+        "title": "Ciara shares the news of her baby in the most iconic way",
         "summary": "2 days ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -276,7 +276,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/lipstick.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/ciara.jpg",
             "type": "extern_image"
         }
         ]
