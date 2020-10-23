@@ -40,7 +40,7 @@
         "media_item" : [
           {
           "key" : "image_6x1",
-          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Headers/6x1FavouritesHeader.png",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Headers/6x1FavHeader.png",
           "type" : "extern_image"
           }
         ]
