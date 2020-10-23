@@ -1,0 +1,146 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Sugar-FashionTrending",
+    "title": "Trending Now",
+    "media_group": [
+      {
+        "type" : "image",
+        "media_item" : [
+          {
+          "key" : "image_8x1",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Footers/8x1TrendingFooter.png",
+          "type" : "extern_image"
+          }
+        ]
+      },
+      {
+        "type" : "image",
+        "media_item" : [
+          {
+          "key" : "image_6x1",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Headers/6x1TrendingHeader.png",
+          "type" : "extern_image"
+          }
+        ]
+      }  
+    ],
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "FA10",
+        "title": "The best homeware buys from our favourite high street fashion stores",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/home.jpeg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Fashion",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "FA03",
+        "title": "This size-inclusive designer collaboration is bringing us some much-needed glamour",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/size.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Fashion",
+            "cta" : "Trending"
+        }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "FA06",
+            "title": "Fashion subscription boxes: the brands delivering great style to your door",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },        
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/boxes.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Fashion",
+            "cta" : "Trending"
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "FA01",
+            "title": "Netflix’s Rebecca is as much about the fashion as it is about the drama",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },        
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/rebecca.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Fashion",
+                "cta" : "Trending"
+            }
+        }
+    ]
+}
