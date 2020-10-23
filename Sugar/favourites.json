@@ -24,7 +24,27 @@
 "type": "extern_image"
 }
 ]
-}
+},
+  {
+        "type" : "image",
+        "media_item" : [
+          {
+          "key" : "image_8x1",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Footers/8x1FavouritesFooter.png",
+          "type" : "extern_image"
+          }
+        ]
+      },
+      {
+        "type" : "image",
+        "media_item" : [
+          {
+          "key" : "image_6x1",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Headers/6x1FavouritesHeader.png",
+          "type" : "extern_image"
+          }
+        ]
+      } 
 ],
 "type": {
 "value": "feed"
