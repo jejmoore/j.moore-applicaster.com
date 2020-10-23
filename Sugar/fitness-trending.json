@@ -1,0 +1,146 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Sugar-FitnessTrending",
+    "title": "Trending Now",
+    "media_group": [
+      {
+        "type" : "image",
+        "media_item" : [
+          {
+          "key" : "image_8x1",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Footers/8x1TrendingFooter.png",
+          "type" : "extern_image"
+          }
+        ]
+      },
+      {
+        "type" : "image",
+        "media_item" : [
+          {
+          "key" : "image_6x1",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Headers/6x1TrendingHeader.png",
+          "type" : "extern_image"
+          }
+        ]
+      }  
+    ],
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "F10",
+        "title": "9 ways to motivate yourself to work out when it’s cold outside",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/yoga.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Fitness",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "F05",
+        "title": "The best running kit to see you through the colder weather",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/gear.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Fitness",
+            "cta" : "Trending"
+        }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "F01",
+            "title": "Why intense or excessive running isn’t always good for you",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },        
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/run.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Fitness",
+                "cta" : "Trending"
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "F06",
+            "title": "This is the best time of the day to exercise, according to fitness trainers",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },        
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/obesity.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Fitness",
+            "cta" : "Trending"
+            }
+        }
+    ]
+}
