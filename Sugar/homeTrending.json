@@ -54,8 +54,8 @@
         "type": {
             "value": "video"
         },
-        "id": "S01",
-        "title": "Under $50 Holiday Kitchen Gifts That Moms Will Adore",
+        "id": "L08",
+        "title": "The physical symptoms of burnout to keep an eye out for while WFH",
         "summary": "2 days ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -67,15 +67,44 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/hero/photo-1491147334573-44cbb4602074-1.webp",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/burnout.jpg",
             "type": "extern_image"
         }
         ]
         }
         ],
         "extensions": {
-            "category" : "Lifestyle"
+            "category" : "Lifestyle",
+            "cta" : "Trending"
         }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "F07",
+            "title": "High-waisted gym leggings that will actually stay up during your workouts",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },        
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/leggings.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Fitness",
+            "cta" : "Trending"
+            }
         },
         {
         "type": {
