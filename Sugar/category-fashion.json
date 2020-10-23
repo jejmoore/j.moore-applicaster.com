@@ -60,7 +60,7 @@
         }
         ],
         "extensions": {
-            "category" : "Fasion",
+            "category" : "Fashion",
             "cta" : "Trending"
         }
         },
@@ -88,7 +88,7 @@
         }
         ],
         "extensions": {
-            "category" : "Fasion",
+            "category" : "Fashion",
             "cta" : "Trending"
         }
         },
@@ -109,14 +109,14 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/emily.jpeg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/emily.jpg",
             "type": "extern_image"
         }
         ]
         }
         ],
         "extensions": {
-            "category" : "Fasion",
+            "category" : "Fashion",
             "cta" : "Trending"
         }
         },
@@ -144,7 +144,7 @@
         }
         ],
         "extensions": {
-            "category" : "Fasion",
+            "category" : "Fashion",
             "cta" : "Trending"
         }
         },
@@ -172,7 +172,7 @@
             }
             ],
             "extensions": {
-                "category" : "Fasion",
+                "category" : "Fashion",
             "cta" : "Trending"
             }
         },
@@ -200,7 +200,7 @@
             }
             ],
             "extensions": {
-                "category" : "Fasion",
+                "category" : "Fashion",
             "cta" : "Trending"
             }
         },
@@ -228,7 +228,7 @@
         }
         ],
         "extensions": {
-            "category" : "Fasion",
+            "category" : "Fashion",
             "cta" : "Trending"
         }
         },
@@ -256,7 +256,7 @@
         }
         ],
         "extensions": {
-            "category" : "Fasion",
+            "category" : "Fashion",
             "cta" : "Trending"
         }
         },
@@ -277,14 +277,14 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/home.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/home.jpeg",
             "type": "extern_image"
         }
         ]
         }
         ],
         "extensions": {
-            "category" : "Fasion",
+            "category" : "Fashion",
             "cta" : "Trending"
         }
         },
@@ -292,7 +292,7 @@
             "type": {
                 "value": "video"
             },
-            "id": "FA10",
+            "id": "FA11",
             "title": "Shirred dresses are the stylish Instagram trend we can get on board with",
             "summary": "2 days ago",
             "content": {
@@ -312,7 +312,7 @@
             }
             ],
             "extensions": {
-                "category" : "Fasion",
+                "category" : "Fashion",
                 "cta" : "Trending"
             }
         }
