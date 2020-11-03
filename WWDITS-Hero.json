@@ -1,0 +1,42 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "WWDITS-Hero",
+    "title": "",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+    {
+        "type": {
+            "value": "video"
+        },
+        "id": "WWDITS-H",
+        "title": "What We Do In The Shadows",
+        "summary": "A documentary-style look into the daily (or rather, nightly) lives of three vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/WWDITS.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/TV%20Shows/WWDITS/16x9-backdrop.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Trending",
+            "meta" : "2019 · 2 Seasons",
+            "cast" : "Cast: Kayvan Novak, Matt Berry, Natasia Demetriou",
+            "button" : "Start Watching"
+        }
+        }
+    ]
+}
