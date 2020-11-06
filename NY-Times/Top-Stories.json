@@ -1,0 +1,152 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "NY-Times-Top",
+    "title": "Top Stories",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-T-01",
+        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
+        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Entertainment",
+          "timestamp" : "1m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-T-02",
+        "title" : "A Man (and Meals) Worth Losing Sleep Over",
+        "summary" : "The cook would arrive after midnight and whip up a Michelin-worthy spread. Which was great, until I could no longer keep my eyes open at work.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top2.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }   
+        ],
+        "extensions": {
+          "category": "Modern Love",
+          "timestamp" : "4m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-T-03",
+        "title" : "A New Window That Forever Changed Our View of Earth",
+        "summary" : "Many of the greatest images you’ve seen from the space station were made in the cupola.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top3.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Science & Technology",
+          "timestamp" : "13m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-T-04",
+        "title" : "How a 2nd-Grade Class Sent a Science Experiment to Space",
+        "summary" : "“Any school district now that affords football can afford spaceflight.”",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top4.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Education",
+          "timestamp" : "1h ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-T-05",
+        "title" : "N.B.A. Is Expected to Start Its New Season Next Month",
+        "summary" : "The players tentatively approved a shortened 2020-21 season that will begin Dec. 22, giving top teams little time to recover from the last campaign.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top5.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Sport",
+          "timestamp" : "2h ago"
+        }
+      }
+    ]
+}
