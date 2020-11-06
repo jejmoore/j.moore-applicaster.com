@@ -55,9 +55,15 @@
               "key": "image_base",
               "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/breaking2.jpg",
               "type": "extern_image"
+              },
+              {
+                "key": "image_bullet",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/bullet1.png",
+                "type": "extern_image"
               }
             ]
-          }
+          },
+            
         ],
         "extensions": {
           "category": "Politics",
@@ -83,6 +89,11 @@
               "key": "image_base",
               "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/breaking3.jpg",
               "type": "extern_image"
+              },
+              {
+                "key": "image_bullet",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/bullet2.png",
+                "type": "extern_image"
               }
             ]
           }
@@ -111,6 +122,11 @@
               "key": "image_base",
               "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/breaking4.jpg",
               "type": "extern_image"
+              },
+              {
+                "key": "image_bullet",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/bullet2.png",
+                "type": "extern_image"
               }
             ]
           }
@@ -139,6 +155,11 @@
               "key": "image_base",
               "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/breaking5.jpg",
               "type": "extern_image"
+              },
+              {
+                "key": "image_bullet",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/bullet2.png",
+                "type": "extern_image"
               }
             ]
           }
