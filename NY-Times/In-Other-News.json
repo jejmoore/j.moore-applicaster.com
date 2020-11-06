@@ -1,0 +1,264 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "NY-Times-Other-News",
+    "title": "In Other News",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+    {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-05",
+        "title" : "N.F.L. Week 9 Predictions: Our Picks Against the Spread",
+        "summary" : "The Ravens will be tested by the Colts; the Seahawks can’t overlook the Bills; and the Cardinals and Dolphins will meet in a battle of feel-good teams.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/feature5.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Sport",
+          "timestamp" : "2h ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-T-03",
+        "title" : "A New Window That Forever Changed Our View of Earth",
+        "summary" : "Many of the greatest images you’ve seen from the space station were made in the cupola.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top3.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Science & Technology",
+          "timestamp" : "13m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-01",
+        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
+        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Entertainment",
+          "timestamp" : "1m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-02",
+        "title" : "The Future of Hotel Design",
+        "summary" : "Mobile guest rooms, enhanced contactless room controls, robotic servers and pop-up dining areas are just a few of the ideas hotel designers are considering for the post-Covid travel world.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/feature2.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }   
+        ],
+        "extensions": {
+          "category": "Travel",
+          "timestamp" : "4m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-T-04",
+        "title" : "How a 2nd-Grade Class Sent a Science Experiment to Space",
+        "summary" : "“Any school district now that affords football can afford spaceflight.”",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top4.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Education",
+          "timestamp" : "1h ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-T-02",
+        "title" : "A Man (and Meals) Worth Losing Sleep Over",
+        "summary" : "The cook would arrive after midnight and whip up a Michelin-worthy spread. Which was great, until I could no longer keep my eyes open at work.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top2.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }   
+        ],
+        "extensions": {
+          "category": "Modern Love",
+          "timestamp" : "4m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-03",
+        "title" : "Watch This Snowball Fight From 1897 for a Jolt of Pure Joy",
+        "summary" : "A viral clip of old-timey French people pelting one another with snowballs perfectly distills our current mayhem. It’s my favorite film of 2020.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/feature3.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Art",
+          "timestamp" : "13m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-04",
+        "title" : "Who Speed-Dates During a Pandemic?",
+        "summary" : "Lots of us, it turns out. “More people,” says one Covid-era matchmaker, “are open to settling down.”",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/feature4.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Life",
+          "timestamp" : "1h ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-T-01",
+        "title" : "PlayStation 5 Review: Sony’s New Console Is an Entertaining Behemoth",
+        "summary" : "With a winning combination of solid hardware and software, Sony’s new console makes us excited about the next generation of gaming.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/feature1.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Technology",
+          "timestamp" : "2m ago"
+        }
+      }
+    ]
+}
