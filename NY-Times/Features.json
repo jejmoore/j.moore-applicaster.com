@@ -1,0 +1,152 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "NY-Times-Features",
+    "title": "Features",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-01",
+        "title" : "PlayStation 5 Review: Sony’s New Console Is an Entertaining Behemoth",
+        "summary" : "With a winning combination of solid hardware and software, Sony’s new console makes us excited about the next generation of gaming.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/feature1.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Technology",
+          "timestamp" : "1m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-02",
+        "title" : "The Future of Hotel Design",
+        "summary" : "Mobile guest rooms, enhanced contactless room controls, robotic servers and pop-up dining areas are just a few of the ideas hotel designers are considering for the post-Covid travel world.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/feature2.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }   
+        ],
+        "extensions": {
+          "category": "Travel",
+          "timestamp" : "4m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-03",
+        "title" : "Watch This Snowball Fight From 1897 for a Jolt of Pure Joy",
+        "summary" : "A viral clip of old-timey French people pelting one another with snowballs perfectly distills our current mayhem. It’s my favorite film of 2020.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/feature3.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Art",
+          "timestamp" : "13m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-04",
+        "title" : "Who Speed-Dates During a Pandemic?",
+        "summary" : "Lots of us, it turns out. “More people,” says one Covid-era matchmaker, “are open to settling down.”",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/feature4.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Life",
+          "timestamp" : "1h ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-05",
+        "title" : "N.F.L. Week 9 Predictions: Our Picks Against the Spread",
+        "summary" : "The Ravens will be tested by the Colts; the Seahawks can’t overlook the Bills; and the Cardinals and Dolphins will meet in a battle of feel-good teams.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/feature5.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Sport",
+          "timestamp" : "2h ago"
+        }
+      }
+    ]
+}
