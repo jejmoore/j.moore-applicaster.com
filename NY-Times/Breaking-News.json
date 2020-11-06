@@ -1,0 +1,152 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "NY-Times-Breaking",
+    "title": "Breaking News",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-B-01",
+        "title" : "Biden takes the lead in Pennsylvania, a state that could decide the presidency.",
+        "summary" : "If Joseph R. Biden Jr.’s lead in Pennsylvania holds, he will become the president-elect.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/hemsworth.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Politics",
+          "timestamp" : "1m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-B-02",
+        "title" : "Philadelphia’s vote count pushes Biden into the lead in Pennsylvania.",
+        "summary" : "Summary text here",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/hemsworth.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Politics",
+          "timestamp" : "4m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-B-03",
+        "title" : "If the Georgia results stay this close, it could mean a recount.",
+        "summary" : "Summary text here",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/hemsworth.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Politics",
+          "timestamp" : "13m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-B-04",
+        "title" : "‘The Daily’: The President’s damagin lies",
+        "summary" : "Summary text here",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/hemsworth.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Politics",
+          "timestamp" : "1h ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-B-05",
+        "title" : "Pennsylvania, with 95 percent of votes counted, is back in the spotlight on Friday.",
+        "summary" : "Summary text here",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QB%20THEME%201/Content%20Images/hemsworth.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Politics",
+          "timestamp" : "2h ago"
+        }
+      }
+    ]
+}
