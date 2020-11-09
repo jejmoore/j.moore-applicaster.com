@@ -1,0 +1,19 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Apple-Todays-News",
+    "title": "News",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+      {
+        
+        "id" : "AN-Date",
+        "title" : "9 November",
+        
+        }
+      }
+    ]
+}
