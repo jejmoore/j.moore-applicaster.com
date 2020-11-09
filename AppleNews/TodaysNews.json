@@ -9,14 +9,14 @@
     },
     "entry": [
       {
-        {
+        
         "type" : {
           "value" : "link"
         },
         "id" : "AN-Date",
         "title" : "9 November"
         
-        }
+        
       }
     ]
 }
