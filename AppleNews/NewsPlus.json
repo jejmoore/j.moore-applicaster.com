@@ -1,0 +1,41 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Apple-News-Plus",
+    "title": "News+ Today",
+    "subheader" : "Unmissable stories from your subscription.",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-01",
+        "title" : "How to train yourself to look on the bright side",
+        "summary" : "These techniques can help you cultivate positivity in any circumstances.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Lifestyle",
+          "timestamp" : "1m ago"
+        }
+      }
+   ]
+}
