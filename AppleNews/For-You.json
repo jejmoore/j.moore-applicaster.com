@@ -1,0 +1,152 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Apple-For-You",
+    "title": "For You",
+    "subheader" : "Recommendations based on topics and channels you read.",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-01",
+        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
+        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Entertainment",
+          "timestamp" : "1m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-01",
+        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
+        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Entertainment",
+          "timestamp" : "1m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-01",
+        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
+        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Entertainment",
+          "timestamp" : "1m ago"
+        }
+      },
+      {
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-01",
+        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
+        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Entertainment",
+          "timestamp" : "1m ago"
+        }
+      },{
+        "type" : {
+          "value" : "link"
+        },
+        "id" : "NY-F-01",
+        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
+        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "link" : {
+          "type" : "link",
+          "href" : "https://www.google.com"
+        },
+        "media_group": [
+          {
+          "type": "image",
+            "media_item": [
+              {
+              "key": "image_base",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "type": "extern_image"
+              }
+            ]
+          }
+        ],
+        "extensions": {
+          "category": "Entertainment",
+          "timestamp" : "1m ago"
+        }
+      }
+   ]
+}
