@@ -39,7 +39,7 @@
             "media_item": [
               {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/AppleNews/ContentImages/foryou-1.jpg",
               "type": "extern_image"
               }
             ]
@@ -67,7 +67,7 @@
             "media_item": [
               {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/AppleNews/ContentImages/foryou-2.jpg",
               "type": "extern_image"
               }
             ]
