@@ -12,7 +12,7 @@
         "media_item": [
           {
           "key": "image_categories",
-          "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/breaking1.jpg",
+          "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/AppleNews/ContentImages/3x1-categories.png",
           "type": "extern_image"
           }
         ]
