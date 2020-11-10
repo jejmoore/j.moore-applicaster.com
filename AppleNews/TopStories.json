@@ -41,9 +41,9 @@
         "type" : {
           "value" : "link"
         },
-        "id" : "NY-F-01",
-        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
-        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "id" : "AN-TS-02",
+        "title" : "A 30-Mile Rafting Trip Through Alaska’s Tongass National Forest",
+        "summary" : "",
         "link" : {
           "type" : "link",
           "href" : "https://www.google.com"
@@ -54,14 +54,14 @@
             "media_item": [
               {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/AppleNews/ContentImages/top2.jpg",
               "type": "extern_image"
               }
             ]
           }
         ],
         "extensions": {
-          "category": "Entertainment",
+          "category": "Travel",
           "timestamp" : "1m ago"
         }
       },
@@ -69,9 +69,9 @@
         "type" : {
           "value" : "link"
         },
-        "id" : "NY-F-01",
-        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
-        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "id" : "AN-TS-03",
+        "title" : "A Record-Setting Ascent of El Capitan",
+        "summary" : "",
         "link" : {
           "type" : "link",
           "href" : "https://www.google.com"
@@ -82,24 +82,24 @@
             "media_item": [
               {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/AppleNews/ContentImages/top3.jpg",
               "type": "extern_image"
               }
             ]
           }
         ],
         "extensions": {
-          "category": "Entertainment",
-          "timestamp" : "1m ago"
+          "category": "Sports",
+          "timestamp" : "40m ago"
         }
       },
       {
         "type" : {
           "value" : "link"
         },
-        "id" : "NY-F-01",
-        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
-        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "id" : "AN-TS-04",
+        "title" : "Xbox Series X and S Review: Microsoft’s New Consoles Are a Good Value. Is That Enough?",
+        "summary" : "",
         "link" : {
           "type" : "link",
           "href" : "https://www.google.com"
@@ -110,23 +110,23 @@
             "media_item": [
               {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/AppleNews/ContentImages/top4.jpg",
               "type": "extern_image"
               }
             ]
           }
         ],
         "extensions": {
-          "category": "Entertainment",
-          "timestamp" : "1m ago"
+          "category": "Technology",
+          "timestamp" : "1d ago"
         }
       },{
         "type" : {
           "value" : "link"
         },
-        "id" : "NY-F-01",
-        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
-        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "id" : "AN-TS-05",
+        "title" : "Original, sustainable ideas for the way we live now",
+        "summary" : "",
         "link" : {
           "type" : "link",
           "href" : "https://www.google.com"
@@ -137,7 +137,7 @@
             "media_item": [
               {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/AppleNews/ContentImages/top5.jpg",
               "type": "extern_image"
               }
             ]
@@ -145,7 +145,7 @@
         ],
         "extensions": {
           "category": "Entertainment",
-          "timestamp" : "1m ago"
+          "timestamp" : "4d ago"
         }
       }
    ]
