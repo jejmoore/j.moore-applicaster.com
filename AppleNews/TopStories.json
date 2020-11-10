@@ -13,9 +13,9 @@
         "type" : {
           "value" : "link"
         },
-        "id" : "NY-F-01",
-        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
-        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "id" : "AN-TS-01",
+        "title" : "Anne Hathaway brings grand fashion to 'The Witches': Her 5 most enchanting looks",
+        "summary" : "",
         "link" : {
           "type" : "link",
           "href" : "https://www.google.com"
@@ -26,14 +26,14 @@
             "media_item": [
               {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/AppleNews/ContentImages/top1.jpg",
               "type": "extern_image"
               }
             ]
           }
         ],
         "extensions": {
-          "category": "Entertainment",
+          "category": "Film",
           "timestamp" : "1m ago"
         }
       },
