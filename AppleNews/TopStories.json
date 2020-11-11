@@ -39,7 +39,7 @@
       },
       {
         "type" : {
-          "value" : "video"
+          "value" : "link"
         },
         "id" : "AN-TS-02",
         "title" : "A 30-Mile Rafting Trip Through Alaska’s Tongass National Forest",
@@ -95,7 +95,7 @@
       },
       {
         "type" : {
-          "value" : "video"
+          "value" : "link"
         },
         "id" : "AN-TS-04",
         "title" : "Xbox Series X and S Review: Microsoft’s New Consoles Are a Good Value. Is That Enough?",
