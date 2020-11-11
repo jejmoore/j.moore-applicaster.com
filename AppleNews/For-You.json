@@ -82,7 +82,7 @@
         "type" : {
           "value" : "link"
         },
-        "id" : "AN-FY-01",
+        "id" : "AN-FY-03",
         "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
         "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
         "link" : {
@@ -110,9 +110,9 @@
         "type" : {
           "value" : "link"
         },
-        "id" : "AN-FY-01",
-        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
-        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "id" : "AN-FY-04",
+        "title" : "‘The Mandalorian’ Season Premiere Recap: Back in the Saddle With Baby Yoda",
+        "summary" : "",
         "link" : {
           "type" : "link",
           "href" : "https://www.google.com"
@@ -123,7 +123,7 @@
             "media_item": [
               {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/AppleNews/ContentImages/foryou-4.jpg",
               "type": "extern_image"
               }
             ]
@@ -137,9 +137,9 @@
         "type" : {
           "value" : "link"
         },
-        "id" : "AN-FY-01",
-        "title" : "‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.",
-        "summary" : "Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",
+        "id" : "AN-FY-05",
+        "title" : "How Hyperpop, a Small Spotify Playlist, Grew Into a Big Deal",
+        "summary" : "",
         "link" : {
           "type" : "link",
           "href" : "https://www.google.com"
@@ -150,15 +150,15 @@
             "media_item": [
               {
               "key": "image_base",
-              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/NY-Times/ContentImages/top1.jpg",
+              "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/AppleNews/ContentImages/foryou-5.jpg",
               "type": "extern_image"
               }
             ]
           }
         ],
         "extensions": {
-          "category": "Entertainment",
-          "timestamp" : "1m ago"
+          "category": "Music",
+          "timestamp" : "44m ago"
         }
       }
    ]
