@@ -32,7 +32,8 @@
         }
         ],
         "extensions": {
-            "section" : "Just Added"
+            "section" : "Just Added",
+            "category" : "Sci-Fi"
         }
         }
     ]
