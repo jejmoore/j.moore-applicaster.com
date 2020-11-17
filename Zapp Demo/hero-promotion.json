@@ -32,7 +32,7 @@
         }
         ],
         "extensions": {
-            "section" : "Just Added",
+            "cta" : "Just Added",
             "category" : "Sci-Fi"
         }
         }
