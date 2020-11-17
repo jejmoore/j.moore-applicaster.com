@@ -14,7 +14,7 @@
         },
         "id": "PR01",
         "title": "The Mandalorian",
-        "summary": "New! Watch Seaon 2 of this addictive Star Wars spin off.",
+        "summary": "New! Watch Season 2 of this addictive Star Wars spin off.",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
             "type": "video/hls"
