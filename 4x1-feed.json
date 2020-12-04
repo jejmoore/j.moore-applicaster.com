@@ -1,0 +1,39 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "4x1-Feed",
+    "title": "",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "4x1-1",
+        "title": "The Walking Dead: World Beyond",
+        "summary": "2 hours ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/wb-4x1.png",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            
+        }
+        }
+    ]
+}
