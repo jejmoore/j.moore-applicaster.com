@@ -39,10 +39,6 @@
         "type": {
             "value": "video"
         },
-        {
-        "type": {
-            "value": "video"
-        },
         "id": "pcol-2",
         "title": "Toy Story 4",
         "summary": "",
@@ -65,10 +61,6 @@
         "extensions": {
             "cta": "Just Added"
         }
-        },
-        {
-        "type": {
-            "value": "video"
         },
         {
         "type": {
