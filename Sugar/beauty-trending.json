@@ -1,0 +1,146 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Sugar-FitnessTrending",
+    "title": "Trending Now",
+    "media_group": [
+      {
+        "type" : "image",
+        "media_item" : [
+          {
+          "key" : "image_8x1",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Footers/8x1TrendingFooter.png",
+          "type" : "extern_image"
+          }
+        ]
+      },
+      {
+        "type" : "image",
+        "media_item" : [
+          {
+          "key" : "image_6x1",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Headers/6x1TrendingHeader.png",
+          "type" : "extern_image"
+          }
+        ]
+      }
+    ],
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+      {
+        "type": {
+            "value": "video"
+        },
+        "id": "B08",
+        "title": "5 common misconceptions about clean beauty",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/cream.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty",
+            "cta" : "Trending"
+        }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "B07",
+            "title": "16 winter nail ideas to upgrade your manicure this season",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/nails.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Beauty",
+            "cta" : "Trending"
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "B06",
+            "title": "No, your skin shouldn’t feel tight after cleansing. Here’s why",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/tight.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Beauty",
+            "cta" : "Trending"
+            }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "B09",
+        "title": "How to air dry your hair while keeping it healthy and protected",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/air.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty",
+            "cta" : "Trending"
+        }
+        }
+    ]
+}
