@@ -12,8 +12,8 @@
         "type": {
             "value": "video"
         },
-        "id": "S02",
-        "title": "How to stop your lipstick from smudging under your face mask",
+        "id": "L07",
+        "title": "This is how Black women in the UK are really feeling",
         "summary": "2 hours ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -25,7 +25,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/lipstick.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/trio.jpg",
             "type": "extern_image"
         }
         ]
