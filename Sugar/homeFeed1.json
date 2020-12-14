@@ -39,8 +39,8 @@
         "type": {
             "value": "video"
         },
-        "id": "S01",
-        "title": "Under $50 Holiday Kitchen Gifts That Moms Will Adore",
+        "id": "L02",
+        "title": "Careers advice: top telling women to talk like men – ask men to talk more like women",
         "summary": "2 days ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -52,7 +52,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/hero/photo-1491147334573-44cbb4602074-1.webp",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/therapy.jpg",
             "type": "extern_image"
         }
         ]
@@ -93,8 +93,8 @@
         "type": {
             "value": "video"
         },
-        "id": "S01",
-        "title": "Under $50 Holiday Kitchen Gifts That Moms Will Adore",
+        "id": "F06",
+        "title": "This is the best time of the day to exercise, according to fitness trainers",
         "summary": "2 days ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -106,14 +106,14 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/hero/photo-1491147334573-44cbb4602074-1.webp",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/obesity.jpg",
             "type": "extern_image"
         }
         ]
         }
         ],
         "extensions": {
-            "category" : "Lifestyle"
+            "category" : "Fitness"
         }
         },
         {
