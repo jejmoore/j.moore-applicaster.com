@@ -1,0 +1,292 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Sugar-Category-Beauty",
+    "title": "Latest",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "B01",
+            "title": "JLo Beauty: everything you need to know about Jennifer Lopez’s skincare line",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/jlo.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Beauty",
+                "cta" : "Trending"
+            }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "B02",
+        "title": "Why does my skin get itchy when I’m stressed?",
+        "summary": "2 hours ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/itch.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "B03",
+        "title": "How to recreate Taylor Swift’s Evermore French braid, explained by hair experts",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/swift.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "B04",
+        "title": "Pharrell Williams has launched his own skincare range, Humanrace. Here’s everything you need to know",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/pharrell.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "B05",
+        "title": "Bobs are the world’s most popular hairstyle right now",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/hair.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty",
+            "cta" : "Trending"
+        }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "B06",
+            "title": "No, your skin shouldn’t feel tight after cleansing. Here’s why",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/tight.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Beauty",
+            "cta" : "Trending"
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "B07",
+            "title": "16 winter nail ideas to upgrade your manicure this season",
+            "summary": "2 days ago",
+            "content": {
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+                "type": "video/hls"
+            },
+            "media_group": [
+            {
+            "type": "image",
+            "media_item": [
+            {
+                "key": "image_base",
+                "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/nails.jpg",
+                "type": "extern_image"
+            }
+            ]
+            }
+            ],
+            "extensions": {
+                "category" : "Beauty",
+            "cta" : "Trending"
+            }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "B08",
+        "title": "5 common misconceptions about clean beauty",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/cream.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "B09",
+        "title": "How to air dry your hair while keeping it healthy and protected",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/air.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "B10",
+        "title": "5 experts on how you can care for your skin beyond your face",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/skin.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty",
+            "cta" : "Trending"
+        }
+        }
+    ]
+}
