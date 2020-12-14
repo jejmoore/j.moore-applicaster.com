@@ -40,6 +40,62 @@
         "type": {
             "value": "video"
         },
+        "id": "B08",
+        "title": "5 common misconceptions about clean beauty",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/cream.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "B09",
+        "title": "How to air dry your hair while keeping it healthy and protected",
+        "summary": "2 days ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/air.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "category" : "Beauty",
+            "cta" : "Trending"
+        }
+        },
+        {
+        "type": {
+            "value": "video"
+        },
         "id": "B02",
         "title": "Why does my skin get itchy when I’m stressed?",
         "summary": "2 hours ago",
@@ -81,7 +137,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/swift.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/swift.jpeg",
             "type": "extern_image"
         }
         ]
@@ -137,7 +193,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/hair.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/hair2.jpg",
             "type": "extern_image"
         }
         ]
@@ -203,62 +259,6 @@
                 "category" : "Beauty",
             "cta" : "Trending"
             }
-        },
-        {
-        "type": {
-            "value": "video"
-        },
-        "id": "B08",
-        "title": "5 common misconceptions about clean beauty",
-        "summary": "2 days ago",
-        "content": {
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-            "type": "video/hls"
-        },
-        "media_group": [
-        {
-        "type": "image",
-        "media_item": [
-        {
-            "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/cream.jpg",
-            "type": "extern_image"
-        }
-        ]
-        }
-        ],
-        "extensions": {
-            "category" : "Beauty",
-            "cta" : "Trending"
-        }
-        },
-        {
-        "type": {
-            "value": "video"
-        },
-        "id": "B09",
-        "title": "How to air dry your hair while keeping it healthy and protected",
-        "summary": "2 days ago",
-        "content": {
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
-            "type": "video/hls"
-        },
-        "media_group": [
-        {
-        "type": "image",
-        "media_item": [
-        {
-            "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/content-images/air.jpg",
-            "type": "extern_image"
-        }
-        ]
-        }
-        ],
-        "extensions": {
-            "category" : "Beauty",
-            "cta" : "Trending"
-        }
         },
         {
         "type": {
