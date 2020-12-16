@@ -29,6 +29,16 @@
             "type": "extern_image"
         }
         ]
+        },
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_4x1",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Disney/disney-4x1.png",
+            "type": "extern_image"
+        }
+        ]
         }
         ],
         "extensions": {
