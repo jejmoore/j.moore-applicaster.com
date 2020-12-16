@@ -1,0 +1,49 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "WW-Hero",
+    "title": "WW 1984",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "pcol-1",
+        "title": "Wonder Woman 1984",
+        "summary": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/WW1984/ww1984-2-8x3.png",
+            "type": "extern_image"
+        }
+        ]
+        },
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_8x3",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/WW1984/ww1984-1-8x3.png",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            "section": "Watch Now"
+        }
+        }
+    ]
+}
