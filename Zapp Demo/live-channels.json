@@ -157,6 +157,81 @@
         }
         ],
         "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "CH07",
+        "title": "Itv 2",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Zapp%20Demo/Channels/ITV-Two-Square.png",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "CH08",
+        "title": "BBC 2",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Zapp%20Demo/Channels/BBC-Two-Square.png",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
+        },
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "CH09",
+        "title": "Itv 4",
+        "summary": "Description",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Zapp%20Demo/Channels/ITVSquare.png",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {}
         }
     ]
 }
