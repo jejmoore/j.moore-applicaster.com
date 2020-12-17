@@ -13,7 +13,7 @@
             "value": "video"
         },
         "id": "8x1-1",
-        "title": "Chernobyl",
+        "title": "The Umbrella Academy",
         "summary": "2 hours ago",
         "content": {
             "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
@@ -25,7 +25,7 @@
         "media_item": [
         {
             "key": "image_base",
-            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/TV-Assets/Prime-8x1-Chernobyl.jpg",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/TV-Assets/Prime-8x1-Umbrella.jpg",
             "type": "extern_image"
         }
         ]
