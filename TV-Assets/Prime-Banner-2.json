@@ -1,0 +1,39 @@
+{
+    "author": {
+    "name": "Applicaster"
+    },
+    "id": "Prime-Banner-2",
+    "title": "Featured",
+    "type": {
+    "value": "feed"
+    },
+    "entry": [
+        {
+        "type": {
+            "value": "video"
+        },
+        "id": "8x1-1",
+        "title": "Chernobyl",
+        "summary": "2 hours ago",
+        "content": {
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+            "type": "video/hls"
+        },        
+        "media_group": [
+        {
+        "type": "image",
+        "media_item": [
+        {
+            "key": "image_base",
+            "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/TV-Assets/Prime-8x1-Chernobyl.jpg",
+            "type": "extern_image"
+        }
+        ]
+        }
+        ],
+        "extensions": {
+            
+        }
+        }
+    ]
+}
