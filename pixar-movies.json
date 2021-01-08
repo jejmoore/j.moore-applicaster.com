@@ -3,7 +3,20 @@
     "name": "Applicaster"
     },
     "id": "PixarMovies",
-    "title": "Pixar Movies",
+    "title": "Disney Pixar: The Complete Collection",
+    "subtitle" : "Binge on all of the Pixar films right here",
+    "media_group": [
+      {
+        "type" : "image",
+        "media_item" : [
+          {
+          "key" : "image_header",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Disney/disney-3x4.png",
+          "type" : "extern_image"
+          }
+        ]
+      }
+    ],
     "type": {
     "value": "feed"
     },
