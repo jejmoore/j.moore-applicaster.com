@@ -11,7 +11,7 @@
         "media_item" : [
           {
           "key" : "image_header",
-          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Disney/disney-3x4.png",
+          "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Disney/pixar-4x1.png",
           "type" : "extern_image"
           }
         ]
