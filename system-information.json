@@ -1,0 +1,20 @@
+{
+    "type": {
+        "value": "feed"
+    },
+    "entry": [
+        
+    ],
+    "author" : {
+      "name" : "Applicaster"
+    },
+    "id" : "SI",
+    "title" : "System Information",
+    "line1" : "Application Version: X",
+    "line2" : "Build Identifier: X",
+    "line3" : "",
+    "line4" : "",
+    "line5" : "",
+    "line6" : "",
+    "line7" : "",
+}
