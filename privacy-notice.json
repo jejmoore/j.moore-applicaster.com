@@ -1,20 +1,18 @@
+
 {
-    "type": {
-        "value": "feed"
-    },
-    "entry": [
-        
-    ],
-    "author" : {
-      "name" : "Applicaster"
-    },
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
     "id" : "PN",
     "title" : "Privacy Notice",
     "line1" : "Find out about your privacy rights and the Company’s Privacy & Cookies Policy at:",
     "line2" : "www.company.com/privacy",
     "line3" : "Read the Company Privacy Notice at:",
-    "line4" : "www.company.com/privacy-notice",
-    "line5" : "",
-    "line6" : "",
-    "line7" : "",
+    "line4" : "www.company.com/privacy-notice"
 }
