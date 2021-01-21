@@ -9,7 +9,7 @@
     "name" : "Applicaster"
   },
   "id" : "SI",
-  "title" : "System Information 2",
+  "title" : "System Information",
   "line1" : "Application Version: X",
   "line2" : "Build Identifier: X",
   "tag" : "NEW"
