@@ -1,20 +1,71 @@
 {
-    "type": {
-        "value": "feed"
-    },
-    "entry": [
-        
-    ],
-    "author" : {
-      "name" : "Applicaster"
-    },
-    "id" : "SI",
-    "title" : "System Information",
-    "line1" : "Application Version: X",
-    "line2" : "Build Identifier: X",
-    "line3" : "",
-    "line4" : "",
-    "line5" : "",
-    "line6" : "",
-    "line7" : "",
+  "type" : {
+    "value" : "feed"
+  },
+  "entry" : [
+    {
+      "author" : {
+        "name" : "Admin"
+      },
+      "type" : {
+        "value" : "video"
+      },
+      "id" : "QBS02-0003",
+      "title" : "Star Wars: The Rise of Skywalker",
+      "summary" : "2019  ·  2h 22m",
+      "published" : "2005-04-06T20:25:05-08:00",
+      "updated" : "2005-04-06T20:25:05-08:00",
+      "content" : {
+        "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/Onward-Trailer.mp4",
+        "type": "video/hls"
+      },
+      "link" : {
+        "type" : "link",
+        "href" : ""
+      },
+      "media_group": [
+      {
+      "type": "image",
+      "media_item": [
+      {
+      "key": "image_base",
+      "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Star%20Wars/sw-rise.jpg",
+      "type": "extern_image"
+      }
+      ]
+      }
+      ],
+      "extensions" : {}
+    }
+  ],
+  "author" : {
+    "name" : "Applicaster"
+  },
+  "id" : "SI",
+  "title" : "System Information",
+  "line1" : "Application Version: X",
+  "line2" : "Build Identifier: X",
+  "tag" : "NEW",
+  "media_group": [
+  {
+    "type" : "image",
+    "media_item" : [
+      {
+      "key" : "image_hero",
+      "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/star-wars-collection.jpg",
+      "type" : "extern_image"
+      }
+    ]
+  },
+  {
+    "type" : "image",
+    "media_item" : [
+      {
+      "key" : "image_tv_hero",
+      "src" : "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Star%20Wars/star-wars-tv.png",
+      "type" : "extern_image"
+      }
+    ]
+  }
+  ]
 }
